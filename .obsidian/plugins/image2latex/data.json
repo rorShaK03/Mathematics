@@ -1,6 +1,6 @@
 {
   "simpleTexToken": "",
-  "latexProvider": "SimpleTex",
+  "latexProvider": "Pix2Tex",
   "texify": {
     "url": "http://127.0.0.1:5000/predict",
     "username": "",
