@@ -98,7 +98,13 @@ $$
 1 & 0 & 0 & \lambda^2 - \frac{2\lambda - 1}{\lambda^2 + 3\lambda} - (1 + \lambda)(\lambda - 1 + \frac{2\lambda - 1}{\lambda^2 + 3\lambda})
 \end{array}
 \right)
-=
-
+\\ \\=
+\left(
+\begin{array}{\mathbb{ccc|c}}
+0 & 0 & 1 &  \lambda - 1 + \frac{2\lambda - 1}{\lambda^2 + 3\lambda}\\
+0 & 1 & 0 & \frac{2\lambda - 1}{\lambda^2 + 3\lambda} \\
+1 & 0 & 0 & \frac{3\lambda + 2}{\lambda + 3}
+\end{array}
+\right)
 \end{aligned}
 $$
