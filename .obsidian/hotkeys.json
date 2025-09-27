@@ -1,0 +1,10 @@
+{
+  "image2latex:generate-latex-from-last-image-multiline": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
+}
