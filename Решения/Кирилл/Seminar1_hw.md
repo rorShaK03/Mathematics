@@ -127,6 +127,43 @@ $$
 \begin{align}
 f(x) = Ax^2 + Bx + C \\
 f(1) = A + B + C = 8 \\
-f(-1)
+f(-1) = A - B + C = 2 \\
+f(2) = 4A + 2B +C = 14
 \end{align}
 $$
+В матричном виде
+$$
+\begin{align}
+\left(
+\begin{array}{\mathbb{ccc|c}}
+1 & 1 & 1 & 8 \\
+1 & -1 & 1 & 2 \\
+4 & 2 & 1 & 14
+\end{array}
+\right)
+=
+\left(
+\begin{array}{\mathbb{ccc|c}}
+1 & 1 & 1 & 8 \\
+0 & -2 & 0 & -6 \\
+0 & -2 & -3 & -18
+\end{array}
+\right) = \\ \\
+\left(
+\begin{array}{\mathbb{ccc|c}}
+1 & 1 & 1 & 8 \\
+0 & -2 & 0 & -6 \\
+0 & 0 & -3 & -12
+\end{array}
+\right) =
+\left(
+\begin{array}{\mathbb{ccc|c}}
+1 & 0 & 0 & 1 \\
+0 & 1 & 0 & 3 \\
+0 & 0 & 1 & 4
+\end{array}
+\right)
+\end{align}
+$$
+Ответ: $f(x) =$
+
