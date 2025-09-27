@@ -7,7 +7,7 @@
     "password": ""
   },
   "pix2tex": {
-    "url": "http://127.0.0.1:8502/predict/",
+    "url": "http://45.88.182.168:8502/predict/",
     "username": "",
     "password": ""
   }

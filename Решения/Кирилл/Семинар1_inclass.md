@@ -227,7 +227,7 @@ $$
 #### a) 
 Вычтем из всех строк $(n)$-ю, получим
 
-Loading latex...
+$$ A={\left(\begin{array}{l l l l}{x}&{1}&{\cdots}&{1}\\ {1}&{x}&{\cdots}&{1}\\ {\vdots}&{\vdots}&{\ddots}&{\vdots}\\ {1}&{1}&{\cdots}&{x}\end{array}\right)}$$
 
 
 
