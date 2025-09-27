@@ -11,12 +11,14 @@
             "id": "f46580b1aaf9d482",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Листки/Seminar01_in_class.pdf"
+                "file": "Решения/Кирилл/Семинар1_inclass.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Seminar01_in_class"
+              "icon": "lucide-file",
+              "title": "Семинар1_inclass"
             }
           },
           {
@@ -194,9 +196,9 @@
   },
   "active": "f46580b1aaf9d482",
   "lastOpenFiles": [
-    "Листки/Seminar01_problems.pdf",
     "Листки/Seminar01_in_class.pdf",
     "Решения/Кирилл/Семинар1_inclass.md",
+    "Листки/Seminar01_problems.pdf",
     "Лекции/Учебник.pdf",
     "Снимок экрана 2025-09-27 в 23.05.33.png",
     "Снимок экрана 2025-09-27 в 22.59.31.png",
