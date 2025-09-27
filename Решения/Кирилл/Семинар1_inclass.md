@@ -183,12 +183,43 @@ x_1 \\ x_2 \\ x_3
 $$
 # 2
 ![[Снимок экрана 2025-09-27 в 22.49.05.png]]
-Поменяем местами 1 и 3 столбцы. При этом произойдет замена $x_1 = y_3, $
+Поменяем местами 1 и 3 столбцы. При этом произойдет замена $x_1 = y_3, \, x_2 = y_2, \, x_3 = y_1$
 $$
 \left(
 	\begin{array}{ccc|c}
-		2 & 0 & 1 & 1 \\
-		3 & 1 & 0 & 1
+		1 & 0 & 2 & 1 \\
+		0 & 1 & 3 & 1
 	\end{array}
 \right)
 $$
+А значит
+$$
+\begin{pmatrix}
+y_1 \\ y_2
+\end{pmatrix}
+=
+\begin{pmatrix}
+1 \\ 1
+\end{pmatrix}
+-
+y_3
+\begin{pmatrix}
+2 \\ 3
+\end{pmatrix}
+$$
+Ответ
+$$
+\begin{pmatrix}
+x_3 \\ x_2
+\end{pmatrix}
+=
+\begin{pmatrix}
+1 \\ 1
+\end{pmatrix}
+-
+x_1
+\begin{pmatrix}
+2 \\ 3
+\end{pmatrix}
+$$
+# 3
