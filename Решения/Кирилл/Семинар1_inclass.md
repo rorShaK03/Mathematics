@@ -171,3 +171,13 @@ $$
 \right)
 \end{aligned}
 $$
+Ответ
+$$
+\begin{pmatrix}
+x_1 \\ x_2 \\ x_3
+\end{pmatrix}
+=
+\begin{pmatrix}
+\frac{3}{4} \\ -\frac{1}{4} \\ -\frac{1}{4}
+\end{pmatrix}
+$$
