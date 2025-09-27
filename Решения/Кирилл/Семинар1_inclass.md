@@ -238,9 +238,23 @@ $$
 
 # 4
 
-## $(i) \$
+## $(i) \leftrightarrow (j)$
 
-## Вычитаем из столбца
+Тогда
+$$
+\begin{aligned}
+x'_{i} = x_{j}\\
+x'_{j} = x_{i}
+\end{aligned}
+$$
+## $(i) - \lambda (j)$
+$$
+x'_{i} = x_{i} - \lambda x_{j}
+$$
+## $\lambda (i)$
+$$
+x'_{i} = \frac{x_{i}} {\lambda}
+$$
 
 
 
