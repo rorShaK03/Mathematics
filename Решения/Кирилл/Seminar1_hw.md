@@ -74,10 +74,18 @@ $$
 1 & 1 & (1 + \lambda) & \lambda^2
 \end{array}
 \right)
-\\ \\=
+=
 \left(
 \begin{array}{\mathbb{ccc|c}}
 0 & 0 & -\lambda^2 - 2\lambda & 1 - \lambda^2(1 + \lambda) + \lambda - \lambda^2 \\
+0 & \lambda & -\lambda & -\lambda^2 + \lambda \\
+1 & 1 & (1 + \lambda) & \lambda^2
+\end{array}
+\right)
+\\ \\=
+\left(
+\begin{array}{\mathbb{ccc|c}}
+0 & 0 & -\lambda(\lambda + 2) & -\lambda^3 - 2\lambda^2 + \lambda - 1  \\
 0 & \lambda & -\lambda & -\lambda^2 + \lambda \\
 1 & 1 & (1 + \lambda) & \lambda^2
 \end{array}
@@ -87,6 +95,30 @@ $$
 \begin{array}{\mathbb{ccc|c}}
 0 & 0 & -\lambda(\lambda + 2) & -\lambda^3 - 2\lambda^2 + \lambda - 1  \\
 0 & \lambda & -\lambda & -\lambda^2 + \lambda \\
+1 & 1 & (1 + \lambda) & \lambda^2
+\end{array}
+\right)
+\\ \\=
+\left(
+\begin{array}{\mathbb{ccc|c}}
+0 & 0 & -\lambda(\lambda + 2) & -\lambda^3 - 2\lambda^2 + \lambda - 1  \\
+0 & 1 & -1 & -\lambda + 1 \\
+1 & 1 & (1 + \lambda) & \lambda^2
+\end{array}
+\right)
+=
+\left(
+\begin{array}{\mathbb{ccc|c}}
+0 & 0 & 1 & \frac{\lambda^3 + 2\lambda^2 - \lambda + 1}{\lambda(\lambda + 2)}  \\
+0 & 1 & 0 & -\lambda + 1 + \frac{\lambda^3 + 2\lambda^2 - \lambda + 1}{\lambda(\lambda + 2)} \\
+1 & 1 & (1 + \lambda) & \lambda^2
+\end{array}
+\right)
+\\ \\=
+\left(
+\begin{array}{\mathbb{ccc|c}}
+0 & 0 & 1 & \frac{\lambda^3 + 2\lambda^2 - \lambda + 1}{\lambda(\lambda + 2)}  \\
+0 & 1 & 0 & -\lambda + 1 + \frac{\lambda^3 + 2\lambda^2 - \lambda + 1}{\lambda(\lambda + 2)} \\
 1 & 1 & (1 + \lambda) & \lambda^2
 \end{array}
 \right)
