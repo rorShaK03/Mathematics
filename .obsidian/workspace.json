@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Лекции/Учебник.pdf"
+                "file": "Листки/Seminar01_in_class.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Учебник"
+              "title": "Seminar01_in_class"
             }
           }
         ]
@@ -180,6 +180,11 @@
   },
   "active": "5cb4f06b88f1ce9d",
   "lastOpenFiles": [
+    "Листки/Seminar26_problems.pdf",
+    "Листки/Seminar13_problems.pdf",
+    "Листки/Seminar01_problems.pdf",
+    "Листки/Seminar01_in_class.pdf",
+    "Лекции/Учебник.pdf",
     "Другие лекции.md",
     "Untitled",
     "Листки/Seminar34_problems.pdf",
@@ -187,10 +192,6 @@
     "Листки/Seminar32_problems.pdf",
     "Листки/Seminar31_problems.pdf",
     "Листки/Seminar30_problems.pdf",
-    "Листки/Seminar29_problems.pdf",
-    "Листки/Seminar27_seminar.pdf",
-    "Листки/Seminar27_problems.pdf",
-    "Листки/Seminar26_problems.pdf",
     "Welcome.md"
   ]
 }
