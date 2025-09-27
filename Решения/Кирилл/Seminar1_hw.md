@@ -165,5 +165,11 @@ $$
 \right)
 \end{align}
 $$
-Ответ: $f(x) =$
+Ответ: $f(x) = x^2 + 3x + 4$
+
+# 4
+Loading latex...$$
+
+$$
+
 
