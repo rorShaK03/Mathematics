@@ -168,8 +168,15 @@ $$
 Ответ: $f(x) = x^2 + 3x + 4$
 
 # 4
-Loading latex...$$
-
 $$
+\begin{pmatrix}
+1 & x & 1 & 1 & x & 1 \\
+x & 1 & x & x & 1 & x \\
+x & 1 & 1 & 1 & 1 & x \\
+1 & x & 1 & 1 & x & 1 \\
+1 & 1 & x & x & 1 & 1
+\end{pmatrix}
+$$
+
 
 
