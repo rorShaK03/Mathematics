@@ -30,5 +30,37 @@ x_{3} \\
 x_{4}
 \end{pmatrix}
 =
-
+\begin{pmatrix}
+0 \\
+1
+\end{pmatrix}
+-
+x_{1}\begin{pmatrix}
+4 \\
+0
+\end{pmatrix}
+-
+x_{2}
+\begin{pmatrix}
+3 \\
+0
+\end{pmatrix}
+$$
+## 2
+$$
+\left(
+\begin{array}{\mathbb{ccc|c}}
+(1 + \lambda) & 1 & 1 & 1 \\
+1 & (1 + \lambda) & 1 & \lambda \\
+1 & 1 & (1 + \lambda) & \lambda^2
+\end{array}
+\right)
+=
+\left(
+\begin{array}{\mathbb{ccc|c}}
+0 & -\lambda & -\lambda^2 - \lambda + 1 & 1 \\
+1 & (1 + \lambda) & 1 & \lambda \\
+1 & 1 & (1 + \lambda) & \lambda^2
+\end{array}
+\right)
 $$
