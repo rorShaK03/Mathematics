@@ -1,6 +1,6 @@
 # 1
 ![[Снимок экрана 2025-09-27 в 20.20.14.png]]
-
+Знак равенства здесь означает эквивалентность систем.
 #### a)
 $$
 \begin{aligned}
@@ -88,6 +88,52 @@ $$
 	\begin{array}{cc|c}
 		1 & 0 & -1 \\
 		0 & 1 & 2
+	\end{array}
+\right)
+$$
+Ответ
+$$
+\begin{pmatrix}
+x_1 \\
+x_2
+\end{pmatrix}
+=
+\begin{pmatrix}
+-1 \\
+2
+\end{pmatrix}
+$$
+#### в)
+$$
+\left(
+	\begin{array}{ccc|c}
+	2 & 1 & 1 & 1 \\
+	1 & 2 & 1 & 0 \\
+	1 & 1 & 2 & 0
+	\end{array}
+\right)
+=
+\left(
+	\begin{array}{ccc|c}
+	1 & 2 & 1 & 0 \\
+	1 & 1 & 2 & 0 \\
+	2 & 1 & 1 & 1
+	\end{array}
+\right)
+=
+\left(
+	\begin{array}{ccc|c}
+	1 & 2 & 1 & 0 \\
+	0 & -1 & 1 & 0 \\
+	0 & -3 & -1 & 1
+	\end{array}
+\right)
+=
+\left(
+	\begin{array}{ccc|c}
+	1 & 2 & 1 & 0 \\
+	0 & -1 & 1 & 0 \\
+	0 & 0 & -4 & 1
 	\end{array}
 \right)
 $$
