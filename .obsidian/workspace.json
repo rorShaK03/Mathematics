@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Семинар1_inclass"
             }
+          },
+          {
+            "id": "d768f3b5ba6c3c57",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d35a3a717e0fddc5",
+  "active": "d768f3b5ba6c3c57",
   "lastOpenFiles": [
     "Снимок экрана 2025-09-27 в 20.20.14.png",
     "Листки/Seminar01_in_class.pdf",
