@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9ac9cf763320e31a",
@@ -197,6 +198,7 @@
   },
   "active": "d35a3a717e0fddc5",
   "lastOpenFiles": [
+    "Снимок экрана 2025-09-27 в 20.20.14.png",
     "Листки/Seminar01_in_class.pdf",
     "Решения/Кирилл/Семинар1_inclass.md",
     "Семинары/Seminar01.pdf",
