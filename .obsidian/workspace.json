@@ -11,14 +11,12 @@
             "id": "5cb4f06b88f1ce9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Другие лекции.md",
-                "mode": "source",
-                "source": false
+                "file": "Лекции/Учебник.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Другие лекции"
+              "icon": "lucide-file-text",
+              "title": "Учебник"
             }
           }
         ]
