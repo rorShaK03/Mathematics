@@ -47,7 +47,10 @@ x_{2}
 \end{pmatrix}
 $$
 ## 2
+
+Пусть $\lambda \ne 0$
 $$
+\begin{aligned}
 \left(
 \begin{array}{\mathbb{ccc|c}}
 (1 + \lambda) & 1 & 1 & 1 \\
@@ -58,9 +61,18 @@ $$
 =
 \left(
 \begin{array}{\mathbb{ccc|c}}
-0 & -\lambda & -\lambda^2 - \lambda + 1 & 1 \\
-1 & (1 + \lambda) & 1 & \lambda \\
+0 & -\lambda & -\lambda^2 - \lambda & 1 - \lambda^2(1 + \lambda) \\
+0 & \lambda & -\lambda & -\lambda^2 + \lambda \\
 1 & 1 & (1 + \lambda) & \lambda^2
 \end{array}
 \right)
+\\\\=
+\left(
+\begin{array}{\mathbb{ccc|c}}
+0 & -\lambda & -\lambda^2 - \lambda & 1 - \lambda^2(1 + \lambda) \\
+0 & 1 & -1 & -\lambda^2 + \lambda \\
+1 & 1 & (1 + \lambda) & \lambda^2
+\end{array}
+\right)
+\end{aligned}
 $$
