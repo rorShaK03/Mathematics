@@ -11,6 +11,18 @@
             "id": "5cb4f06b88f1ce9d",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Листки/Seminar01_in_class.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Seminar01_in_class"
+            }
+          },
+          {
+            "id": "f46580b1aaf9d482",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Решения/Кирилл/Семинар1_inclass.md",
@@ -20,20 +32,9 @@
               "icon": "lucide-file",
               "title": "Семинар1_inclass"
             }
-          },
-          {
-            "id": "f46580b1aaf9d482",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Листки/Seminar01_in_class.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Seminar01_in_class"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,13 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cb4f06b88f1ce9d",
+  "active": "f46580b1aaf9d482",
   "lastOpenFiles": [
+    "Снимок экрана 2025-09-27 в 22.49.05.png",
     "Листки/Seminar01_in_class.pdf",
     "Решения/Кирилл/Семинар1_inclass.md",
+    "Семинары/Seminar01.pdf",
     "Лекции/Учебник.pdf",
     "Семинары/Seminar02.pdf",
-    "Семинары/Seminar01.pdf",
     "Untitled.base",
     "Снимок экрана 2025-09-27 в 20.20.14.png",
     "Решения/Кирилл",
