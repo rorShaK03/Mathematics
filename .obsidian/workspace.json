@@ -25,15 +25,16 @@
             "id": "d768f3b5ba6c3c57",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Семинары/Seminar01.pdf"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file-text",
+              "title": "Seminar01"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,12 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cb4f06b88f1ce9d",
+  "active": "d768f3b5ba6c3c57",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Решения/Кирилл/Семинар1_inclass.md",
-    "Снимок экрана 2025-09-27 в 20.20.14.png",
     "Листки/Seminar01_in_class.pdf",
+    "Решения/Кирилл/Семинар1_inclass.md",
+    "Untitled.base",
+    "Снимок экрана 2025-09-27 в 20.20.14.png",
     "Семинары/Seminar01.pdf",
     "Решения/Кирилл",
     "Решения",
