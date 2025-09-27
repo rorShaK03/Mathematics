@@ -59,7 +59,35 @@ $$
 \left(
 	\begin{array}{cc|c}
 		9 & 7 & 5 \\
-		
+		5 & 3 & 1
+	\end{array}
+\right)
+=
+\left(
+	\begin{array}{cc|c}
+		9 & 7 & 5 \\
+		45 & 27 & 9
+	\end{array}
+\right)
+=
+\left(
+	\begin{array}{cc|c}
+		9 & 7 & 5 \\
+		0 & -8 & -16
+	\end{array}
+\right)
+=
+\left(
+	\begin{array}{cc|c}
+		9 & 0 & -9 \\
+		0 & 1 & 2
+	\end{array}
+\right)
+=
+\left(
+	\begin{array}{cc|c}
+		1 & 0 & -1 \\
+		0 & 1 & 2
 	\end{array}
 \right)
 $$
