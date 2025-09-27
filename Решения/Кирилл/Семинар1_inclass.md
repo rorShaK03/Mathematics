@@ -14,30 +14,29 @@ $$
 \left(
 	\begin{array}{cccc|c}
 	3 & 3 & 2 & 2 & 1 \\
-	0 & 0 & -\frac{1}{3} & -\frac{1}{3} & -\frac{2}{3}
+	6 & 6 & 3 & 3 & 0
 	\end{array}
 \right) 
 =
 \left(
 	\begin{array}{cccc|c}
 	3 & 3 & 2 & 2 & 1 \\
-	0 & 0 & -\frac{1}{3} & -\frac{1}{3} & -\frac{2}{3}
+	0 & 0 & -1 & -1 & -2
 	\end{array}
-\right) 
+\right)
+=
+\left(
+	\begin{array}{cccc|c}
+	3 & 3 & 0 & 0 & -3 \\
+	0 & 0 & 1 & 1 & 2
+	\end{array}
+\right)
 \\=
 \left(
 	\begin{array}{cccc|c}
-	3 & 3 & 2 & 2 & 1 \\
-	0 & 0 & -\frac{1}{3} & -\frac{1}{3} & -\frac{2}{3}
-	\end{array}
-\right) 
-=
-\left(
-	\begin{array}{cccc|c}
-	1 & 1 & \frac{2}{3} & \frac{2}{3} & \frac{1}{3} \\
+	1 & 1 & 0 & 0 & -1 \\
 	0 & 0 & 1 & 1 & 2
 	\end{array}
-\right) 
-
+\right)
 \end{aligned}
 $$
