@@ -241,7 +241,7 @@ $$
 Ответ: $1$ при любом значении $x$.
 
 #### г)
-$$ A=\left(\begin{array}{l l l l l l}{{0}}&{{1}}&{{2}}&{{\mathbf{\epsilon}\cdot\cdot\mathbf{\epsilon}}}&{{n}}\\ {{-1}}&{{0}}&{{1}}&{{\mathbf{\epsilon}\cdot\cdot\mathbf{\epsilon}\nabla}}&{{\mathbf{\epsilon}\cdot\mathbf{\epsilon}\ n-2}}\\ {{\vdots}}&{{\ddots}}&{{\mathbf{\epsilon}\cdot\mathbf{\epsilon}\cdot\mathbf{\epsilon}\vdots}}\\ {{-n}}&{{-(n-2)}}&{{\mathbf{\epsilon}\cdot\mathbf{\epsilon}\cdot\mathbf{\epsilon}\mathbf{\epsilon}\cdot\mathbf{\epsilon}\mathbf{\epsilon}\mathbf{\epsilon}}}\end{array}\right)$$
+
 
 
 
