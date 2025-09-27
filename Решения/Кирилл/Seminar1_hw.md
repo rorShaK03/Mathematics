@@ -108,3 +108,25 @@ $$
 \right)
 \end{aligned}
 $$
+Пусть $\lambda = 0$, тогда
+$$
+\begin{align}
+\left(
+\begin{array}{\mathbb{ccc|c}}
+1 & 1 & 1 & 1 \\
+1 & 1 & 1 & 0 \\
+1 & 1 & 1 & 0
+\end{array}
+\right)
+\end{align}
+$$
+очевидно эта СЛАУ решений не имеет.
+
+# 3
+$$
+\begin{align}
+f(x) = Ax^2 + Bx + C \\
+f(1) = A + B + C = 8 \\
+f(-1)
+\end{align}
+$$
