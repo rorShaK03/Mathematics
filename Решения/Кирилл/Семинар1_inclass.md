@@ -232,8 +232,7 @@ $$ A={\left(\begin{array}{l l l l}{x}&{1}&{\cdots}&{1}\\ {1}&{x}&{\cdots}&{1}\\ 
 $$
 {\left(\begin{array}{l l l l}{x - 1}&{0}&{\cdots}&{1- x}\\ {0}&{x - 1}&{\cdots}&{1 - x}\\ {\vdots}&{\vdots}&{\ddots}&{\vdots}\\ {1}&{1}&{\cdots}&{x}\end{array}\right)}
 $$
-
-
+А значит $x_1 = x_$
 #### г)
 
 # 4
