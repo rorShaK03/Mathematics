@@ -35,12 +35,14 @@
             "id": "f25fa04c4455c6fc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Листки/Seminar01_problems.pdf"
+                "file": "Решения/Кирилл/Семинар1_inclass.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Seminar01_problems"
+              "icon": "lucide-file",
+              "title": "Семинар1_inclass"
             }
           },
           {
@@ -56,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,12 +219,12 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "9d0b0104701e698c",
+  "active": "f25fa04c4455c6fc",
   "lastOpenFiles": [
-    "Решения/Кирилл/Семинар1_inclass.md",
-    "Решения/Кирилл/Seminar1_hw.md",
     "Листки/Seminar01_in_class.pdf",
+    "Решения/Кирилл/Семинар1_inclass.md",
     "Листки/Seminar01_problems.pdf",
+    "Решения/Кирилл/Seminar1_hw.md",
     "Лекции/Учебник.pdf",
     "Задачники/Kostrikin-2009.pdf",
     "Задачники",
