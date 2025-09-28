@@ -255,7 +255,7 @@ $$
 		0&0&{\cdots}&x-1&1-x&0&0\\
 		{\vdots}&{\vdots}&&{\vdots}\\
 		
-		{1}&{1}&{\cdots}&{x}
+		{1 - x}&{1 - x}&{\cdots}&{x}
 	\end{array}
 \right)}
 $$
