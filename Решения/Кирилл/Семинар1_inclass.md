@@ -227,18 +227,20 @@ $$
 #### a) 
 
 $$ A={\left(\begin{array}{l l l l}{x}&{1}&{\cdots}&{1}\\ {1}&{x}&{\cdots}&{1}\\ {\vdots}&{\vdots}&{\ddots}&{\vdots}\\ {1}&{1}&{\cdots}&{x}\end{array}\right)}$$
+Пусть $x \ne 1$
 
 Вычтем из всех строк $(n)$-ю. Получим
 $$
 {\left(\begin{array}{l l l l}{x - 1}&{0}&{\cdots}&{1- x}\\ {0}&{x - 1}&{\cdots}&{1 - x}\\ {\vdots}&{\vdots}&{\ddots}&{\vdots}\\ {1}&{1}&{\cdots}&{x}\end{array}\right)}
 $$
-А значит $x_1 = x_2 = ... = x_{n - 1} = -x_n$. И последняя строчка соответствует
+А теперь вычтем из последней все строки деленные на $(x - 1)$
 $$
-\begin{aligned}
-xx_n - (n-1)x_n = 0 \\
-x_n(x - n + 1) = 0
-\end{aligned}
+{\left(\begin{array}{l l l l}{x - 1}&{0}&{\cdots}&{1- x}\\ {0}&{x - 1}&{\cdots}&{1 - x}\\ {\vdots}&{\vdots}&{\ddots}&{\vdots}\\ {0}&{0}&{\cdots}&{x - (-1)(n - 1)}\end{array}\right)}
+=
+{\left(\begin{array}{l l l l}{x - 1}&{0}&{\cdots}&{1- x}\\ {0}&{x - 1}&{\cdots}&{1 - x}\\ {\vdots}&{\vdots}&{\ddots}&{\vdots}\\ {0}&{0}&{\cdots}&{x + n - 1}\end{array}\right)}
 $$
+
+То е
 
 #### б)
 
