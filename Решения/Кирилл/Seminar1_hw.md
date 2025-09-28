@@ -351,7 +351,18 @@ x_1 \\ x_2 \\ \vdots \\ x_n
 \begin{pmatrix}
 b'_1 \\ b'_2 \\ \vdots \\ b'_m
 \end{pmatrix}
+-
+x_{m + 1}
+\begin{pmatrix}
+B'_{11} \\ B'_{21} \\ \vdots \\ B'_{m1}
+\end{pmatrix}
+-...-
+x_{m + n}
+\begin{pmatrix}
+B'_{1n} \\ B'_{2n} \\ \vdots \\ B'_{mn}
+\end{pmatrix}
 $$
+а значит решений бесконечно много.
 
 # 7
 
