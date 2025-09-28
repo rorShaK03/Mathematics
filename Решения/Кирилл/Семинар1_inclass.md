@@ -232,8 +232,15 @@ $$ A={\left(\begin{array}{l l l l}{x}&{1}&{\cdots}&{1}\\ {1}&{x}&{\cdots}&{1}\\ 
 $$
 {\left(\begin{array}{l l l l}{x - 1}&{0}&{\cdots}&{1- x}\\ {0}&{x - 1}&{\cdots}&{1 - x}\\ {\vdots}&{\vdots}&{\ddots}&{\vdots}\\ {1}&{1}&{\cdots}&{x}\end{array}\right)}
 $$
-А значит $x_1 = x_$
-#### г)
+А значит $x_1 = x_2 = ... = x_{n - 1} = -x_n$. И последняя строчка соответствует
+$$
+\begin{aligned}
+xx_n - (n-1)x_n = 0 \\
+x_n(x - n + 1) = 0
+\end{aligned}
+$$
+
+#### б)
 
 # 4
 
