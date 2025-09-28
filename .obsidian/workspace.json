@@ -47,12 +47,14 @@
             "id": "c3e50d6f8a22410e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Листки/Seminar01_in_class.pdf"
+                "file": "Решения/Кирилл/Семинар1_inclass.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Seminar01_in_class"
+              "icon": "lucide-file",
+              "title": "Семинар1_inclass"
             }
           }
         ],
@@ -219,8 +221,8 @@
   },
   "active": "c3e50d6f8a22410e",
   "lastOpenFiles": [
-    "Решения/Кирилл/Семинар1_inclass.md",
     "Листки/Seminar01_in_class.pdf",
+    "Решения/Кирилл/Семинар1_inclass.md",
     "Лекции/Учебник.pdf",
     "Листки/Seminar01_problems.pdf",
     "Семинары/Seminar01.pdf",
