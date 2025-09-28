@@ -247,7 +247,17 @@ $$
 #### б)
 Вычтем $(1)$-ю строку из $(2)$-й, $(n - 1)$-й и $(n)$-й. Из остальных строк вычтем $(3)$-ю. Получим
 $$
-{\left(\begin{array}{l l l l}{x}&{x}&&x&x\\ {1-x}&{1-x}&{\cdots}&{1 - x}\\ {\vdots}&{\vdots}&{\ddots}&{\vdots}\\ {1}&{1}&{\cdots}&{x}\end{array}\right)}
+{\left(
+	\begin{array}{l l l l}
+		{x}&{x}&&1&1&x&x\\
+		{1-x}&{1-x}&{\cdots}&0&0&{0}&0\\
+		1&1&{\cdots}&1&x&1&1\\
+		1&1&{\cdots}&x-1&1-x&0&0\\
+		{\vdots}&{\vdots}&&{\vdots}\\
+		
+		{1}&{1}&{\cdots}&{x}
+	\end{array}
+\right)}
 $$
 
 
