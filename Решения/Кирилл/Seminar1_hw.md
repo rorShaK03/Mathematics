@@ -323,6 +323,18 @@ $$
 $$
 \begin{pmatrix}
 1 & 0 & \cdots & 0 \\
+0 & 1 & \cdots & 0 \\
+\vdots & & & \vdots \\
+0 & 0 & \cdots & 1
+\end{pmatrix}
+$$
 
+А значит, что после прохода алгоритма Гаусса по матрице $(A|B)$ она будет иметь вид:
+$$
+\begin{pmatrix}
+1 & 0 & \cdots & 0 & b_{11} & b_{12} & \cdots & b_{1n} \\
+0 & 1 & \cdots & 0 & b_{21} & b_{22} & \cdots & b_{2n} \\
+\vdots & & & \vdots & \vdots & & & \vdots \\
+0 & 0 & \cdots & 1 & b_{m1} & b_{m2} & \cdots & b_{mn} 
 \end{pmatrix}
 $$
