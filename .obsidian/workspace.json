@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "c3e50d6f8a22410e",
+            "id": "f25fa04c4455c6fc",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -46,19 +46,19 @@
             }
           },
           {
-            "id": "f25fa04c4455c6fc",
+            "id": "c3e50d6f8a22410e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Задачники/Kostrikin-2009.pdf"
+                "file": "Лекции/Учебник.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Kostrikin-2009"
+              "title": "Учебник"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,10 +222,10 @@
   "active": "9d0b0104701e698c",
   "lastOpenFiles": [
     "Задачники/Kostrikin-2009.pdf",
-    "Решения/Кирилл/Seminar1_hw.md",
-    "Решения/Кирилл/Семинар1_inclass.md",
-    "Листки/Seminar01_problems.pdf",
     "Лекции/Учебник.pdf",
+    "Решения/Кирилл/Seminar1_hw.md",
+    "Листки/Seminar01_problems.pdf",
+    "Решения/Кирилл/Семинар1_inclass.md",
     "Задачники",
     "Листки/Seminar01_in_class.pdf",
     "Снимок экрана 2025-09-27 в 23.05.33.png",
