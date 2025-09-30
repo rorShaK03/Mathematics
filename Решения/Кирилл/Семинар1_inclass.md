@@ -334,6 +334,7 @@ x&x+1&(n - 4)\\
 $$
 Вычтем из $(1)$ строчки строчку $(2) \cdot x$
 $$
+\begin{aligned}
 \begin{pmatrix}
 1&2&(n-5+x)\\
 0&1-x&n - 4 - nx + 5x - x^2
@@ -343,6 +344,12 @@ $$
 1&2&(n-5+x)\\
 0&1-x& -x^2 + (5-n)x + (n-4)
 \end{pmatrix}
+=
+\begin{pmatrix}
+1&2&(n-5+x)\\
+0&1-x& -x^2 + (5-n)x + (n-4)
+\end{pmatrix}
+\end{al}
 $$
 
 
