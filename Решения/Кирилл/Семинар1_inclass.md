@@ -434,10 +434,16 @@ $$
 Для первых $\frac{n}{2}$ строк вычтем строку с номером $(n - i)$. Получится
 $$
 \begin{pmatrix}
-x&0&0&0&\cdots&0&0&0\\
-0&x&0&0&\cdots&0&0&0\\
-0&0&x&0&\cdots&0&0&0\\
-\vdots
+x&0&0&0&\cdots&0&0&\cdots&0&0&0&0\\
+0&x&0&0&\cdots&0&0&\cdots&0&0&0&0\\
+0&0&x&0&\cdots&0&0&\cdots&0&0&0&0\\
+\vdots&&&&&&&&&&&\vdots\\
+0&0&0&0&\cdots&x&0&\cdots&0&0&0&0\\
+1&1&1&1&\cdots&1&x&\cdots&1&1&1&1\\
+\vdots&&&&&&&&&&&\vdots\\
+1&1&1&1&\cdots&1&1&\cdots&1&x&1&1\\
+0&x&0&0&\cdots&1&1&\cdots&1&1&x&1\\
+0&0&x&0&\cdots&1&1&\cdots&1&1&1&x\\
 \end{pmatrix}
 $$
 
