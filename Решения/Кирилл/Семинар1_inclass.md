@@ -382,6 +382,32 @@ $$
 $$
 Решение
 $$
+\begin{pmatrix}
+z_1\\
+z_2
+\end{pmatrix}
+=
+z_3
+\begin{pmatrix}
+n + x - 3\\
+-x - n + 4
+\end{pmatrix}
+$$
+И делая обратную замену
+$$
+\begin{pmatrix}
+x_1\\
+x_2\\
+\vdots\\
+x_n
+\end{pmatrix}
+=
+z_3
+\begin{pmatrix}
+n + x - 3\\
+-x - n + 4
+\end{pmatrix}
+$$
 $$
 
 При $x = 1$
