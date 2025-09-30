@@ -344,12 +344,36 @@ $$
 1&2&(n-5+x)\\
 0&1-x& -x^2 + (5-n)x + (n-4)
 \end{pmatrix}
-=
+\\\\=
 \begin{pmatrix}
 1&2&(n-5+x)\\
-0&1-x& -x^2 + (5-n)x + (n-4)
+0&1-x& (1-x)(x - 4 + n)
 \end{pmatrix}
-\end{al}
+\end{aligned}
+$$
+При $x \ne 1$ это равносильно
+$$
+\begin{aligned}
+\begin{pmatrix}
+1&2&n-5+x\\
+0&1-x& (1-x)(x - 4 + n)
+\end{pmatrix}
+=
+\begin{pmatrix}
+1&2&n-5+x\\
+0&1&x - 4 + n
+\end{pmatrix}
+=
+\begin{pmatrix}
+1&0&n-5+x - 2x + 8 -2n\\
+0&1&x - 4 + n
+\end{pmatrix}
+=
+\begin{pmatrix}
+1&0&n-5+x - 2x + 8 -2n\\
+0&1&x - 4 + n
+\end{pmatrix}
+\end{aligned}
 $$
 
 
