@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,10 +219,10 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "f25fa04c4455c6fc",
+  "active": "c3e50d6f8a22410e",
   "lastOpenFiles": [
-    "Решения/Кирилл/Семинар1_inclass.md",
     "Листки/Seminar01_in_class.pdf",
+    "Решения/Кирилл/Семинар1_inclass.md",
     "Лекции/Учебник.pdf",
     "Листки/Seminar01_problems.pdf",
     "Семинары/Seminar01.pdf",
