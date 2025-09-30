@@ -433,13 +433,38 @@ y_5\\
 y_6
 \end{pmatrix}
 =
-z_3
+y_4
 \begin{pmatrix}
 n + x - 3\\
 -x - n + 4\\
--x - n + 4
+-x - n + 4\\
+-x - n + 4\\
+3 - n -x\\
+n + x - 3\\
 \end{pmatrix}
 $$
+И еще одну обратную замену
+$$
+\begin{pmatrix}
+x_1\\
+x_2\\
+x_3\\
+x_5\\
+\vdots\\
+x_{n-2}\\
+x_{n-1}\\
+x_n
+\end{pmatrix}
+=
+x_4
+\begin{pmatrix}
+n + x - 3\\
+-x - n + 4\\
+-x - n + 4\\
+-x - n + 4\\
+3 - n -x\\
+n + x - 3\\
+\end{pmatrix}
 $$
 
 При $x = 1$
