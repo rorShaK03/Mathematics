@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Решения/Кирилл/Семинар1_inclass.md",
+                "file": "Черновые решения/Кирилл/Seminar1_hw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Семинар1_inclass"
+              "title": "Seminar1_hw"
             }
           }
         ],
@@ -221,12 +221,14 @@
   },
   "active": "c3e50d6f8a22410e",
   "lastOpenFiles": [
+    "Черновые решения/Кирилл/Семинар1_inclass.md",
+    "Решения/Семинар1_inclass.pdf",
+    "Черновые решения/Кирилл/Seminar1_hw.md",
+    "Решения",
     "Листки/Seminar01_in_class.pdf",
-    "Решения/Кирилл/Семинар1_inclass.md",
     "Лекции/Учебник.pdf",
     "Листки/Seminar01_problems.pdf",
     "Семинары/Seminar01.pdf",
-    "Решения/Кирилл/Seminar1_hw.md",
     "Задачники/Kostrikin-2009.pdf",
     "Задачники",
     "Снимок экрана 2025-09-27 в 23.05.33.png",
@@ -235,8 +237,6 @@
     "Семинары/Seminar02.pdf",
     "Untitled.base",
     "Снимок экрана 2025-09-27 в 20.20.14.png",
-    "Решения/Кирилл",
-    "Решения",
     "Другие лекции.md",
     "Welcome.md"
   ]
