@@ -368,14 +368,28 @@ $$
 1&0&n-5+x - 2x + 8 -2n\\
 0&1&x - 4 + n
 \end{pmatrix}
-=
+\\\\=
 \begin{pmatrix}
 1&0&n-5+x - 2x + 8 -2n\\
+0&1&x - 4 + n
+\end{pmatrix}
+=
+\begin{pmatrix}
+1&0&-n-x+3\\
 0&1&x - 4 + n
 \end{pmatrix}
 \end{aligned}
 $$
 
+
+При $x = 1$
+$$
+\begin{pmatrix}
+1&2&n-4\\
+0&0&0
+\end{pmatrix}
+$$
+Одна главная переменная.
 
 ##
 
