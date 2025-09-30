@@ -267,6 +267,29 @@ $$
 Это значит в любом решении СЛАУ $x_4 = x_5 = x_6 = ... = x_{n - 2}$. Раз так, то можно сделать замену:
 $$
 \begin{aligned}
+\begin{pmatrix}
+x_1\\
+x_2\\
+x_3\\
+x_4\\
+x_5\\
+\vdots\\
+x_{n-2}\\
+x_{n - 1}\\
+x_n
+\end{pmatrix}
+=
+\begin{pmatrix}
+y_1\\
+y_2\\
+x_3\\
+x_4\\
+x_5\\
+\vdots\\
+x_{n-2}\\
+x_{n - 1}\\
+x_n
+\end{pmatrix}\\
 y_1 = x_1 \\
 y_2 = x_2 \\
 y_3 = x_3 \\
@@ -310,9 +333,23 @@ $$
 А значит $y_1 = -y_5$, $y_5 = -y_6$ и $y_2 = y_3$. Сделаем еще одну замену
 $$
 \begin{aligned}
-z_1 = y_1 = x_1\\
-z_2 = y_2 = x_2\\
-z_3 = y_4 = x_4
+\begin{pmatrix}
+z_1\\
+z_2\\
+z_3
+\end{pmatrix}
+=
+\begin{pmatrix}
+y_1\\
+y_2\\
+y_4
+\end{pmatrix}
+=
+\begin{pmatrix}
+x_1\\
+x_2\\
+x_4
+\end{pmatrix}
 \end{aligned}
 $$
 И матрица новой системы будет
@@ -398,6 +435,7 @@ $$
 \begin{pmatrix}
 x_1\\
 x_2\\
+x_3\\
 \vdots\\
 x_n
 \end{pmatrix}
@@ -405,6 +443,7 @@ x_n
 z_3
 \begin{pmatrix}
 n + x - 3\\
+-x - n + 4\\
 -x - n + 4
 \end{pmatrix}
 $$
