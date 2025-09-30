@@ -442,10 +442,26 @@ x&0&0&0&\cdots&0&0&\cdots&0&0&0&0\\
 1&1&1&1&\cdots&1&x&\cdots&1&1&1&1\\
 \vdots&&&&&&&&&&&\vdots\\
 1&1&1&1&\cdots&1&1&\cdots&1&x&1&1\\
-0&x&0&0&\cdots&1&1&\cdots&1&1&x&1\\
-0&0&x&0&\cdots&1&1&\cdots&1&1&1&x\\
+1&1&1&1&\cdots&1&1&\cdots&1&1&x&1\\
+1&1&1&1&\cdots&1&1&\cdots&1&1&1&x\\
 \end{pmatrix}
 $$
+Теперь вычтем $(n)$-ю строчку из строчек с $(\frac{n}{2} + 1)$ до $(n - 1)$:
+$$
+\begin{pmatrix}
+x&0&0&0&\cdots&0&0&\cdots&0&0&0&0\\
+0&x&0&0&\cdots&0&0&\cdots&0&0&0&0\\
+0&0&x&0&\cdots&0&0&\cdots&0&0&0&0\\
+\vdots&&&&&&&&&&&\vdots\\
+0&0&0&0&\cdots&x&0&\cdots&0&0&0&0\\
+0&0&0&0&\cdots&0&x-1&\cdots&0&0&0&1-x\\
+\vdots&&&&&&&&&&&\vdots\\
+0&0&0&0&\cdots&0&0&\cdots&0&x-1&0&1-x\\
+0&0&0&0&\cdots&0&0&\cdots&0&0&x-1&1-x\\
+1&1&1&1&\cdots&1&1&\cdots&1&1&1&x\\
+\end{pmatrix}
+$$
+
 
 
 
