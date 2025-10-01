@@ -10,7 +10,7 @@ $$
 =
 \left(
 \begin{array}{cccc|c}
-0 & 0 & 0 & 3 & 3 \\
+0 & 0 & 0 & 4 & 4 \\
 4 & 3 & 1 & 2 & 3 \\
 0 & 0 & 0 & 1 & 1
 \end{array}
@@ -18,7 +18,7 @@ $$
 =
 \left(
 \begin{array}{cccc|c}
-4 & 3 & 1 & 0 & 0 \\
+4 & 3 & 1 & 0 & 1 \\
 0 & 0 & 0 & 1 & 1
 \end{array}
 \right)
@@ -31,7 +31,7 @@ x_{4}
 \end{pmatrix}
 =
 \begin{pmatrix}
-0 \\
+1 \\
 1
 \end{pmatrix}
 -
@@ -103,7 +103,7 @@ $$
 \begin{array}{\mathbb{ccc|c}}
 0 & 0 & 1 &  \lambda - 1 + \frac{2\lambda - 1}{\lambda^2 + 3\lambda}\\
 0 & 1 & 0 & \frac{2\lambda - 1}{\lambda^2 + 3\lambda} \\
-1 & 0 & 0 & \frac{3\lambda + 2}{\lambda + 3}
+1 & 0 & 0 & \frac{-\lambda^2 + 2}{\lambda^2 + 3\lambda}
 \end{array}
 \right)
 \end{aligned}
@@ -121,7 +121,6 @@ $$
 \end{align}
 $$
 очевидно эта СЛАУ решений не имеет.
-
 # 3
 $$
 \begin{align}
