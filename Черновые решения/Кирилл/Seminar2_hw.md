@@ -65,17 +65,30 @@ $$
 $$
 $$
 \begin{pmatrix}
-1&0\\
-1&1
+a&b\\
+c&d
 \end{pmatrix}
 \cdot
 \begin{pmatrix}
-3&1\\
--5&2
+2&1\\
+5&3
+\end{pmatrix}
+=
+\begin{pmatrix}
+2a + 5b&a+3b\\
+2c + 5d&c + 3d
 \end{pmatrix}
 =
 \begin{pmatrix}
 3&1\\
--2&3
+-5&2
 \end{pmatrix}
+$$
+$$
+\left(
+\begin{array}{cccc|c}
+2&5&0&0&3\\
+1&3&0&0
+\end{array}
+\right)
 $$
