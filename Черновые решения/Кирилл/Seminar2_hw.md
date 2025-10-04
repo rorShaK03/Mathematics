@@ -124,8 +124,39 @@ $$
 \end{pmatrix}
 \cdot
 \begin{pmatrix}
+1&0\\
+1&1
+\end{pmatrix}^n
+\cdot
+\begin{pmatrix}
+3&-1\\
+-5&2
+\end{pmatrix}
+
+\end{aligned}
+$$
+
+
+
+$$
+\begin{aligned}
+\begin{pmatrix}
 	1&0\\
 	1&1
+	\end{pmatrix}
+	\begin{pmatrix}
+	1&0\\
+	1&1
+	\end{pmatrix}
+	\\\\
+	\begin{pmatrix}
+	1&0\\
+	2&1
+	\end{pmatrix}
+	\\\\
+	\begin{pmatrix}
+	1&1\\
+	3&1
 	\end{pmatrix}
 \end{aligned}
 $$
