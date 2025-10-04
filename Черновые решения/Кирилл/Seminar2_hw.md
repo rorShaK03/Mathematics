@@ -137,26 +137,106 @@ $$
 $$
 
 
-
+Рассмотрим несколько первых степеней
 $$
 \begin{aligned}
-\begin{pmatrix}
+	\begin{pmatrix}
 	1&0\\
 	1&1
 	\end{pmatrix}
+	=
 	\begin{pmatrix}
 	1&0\\
 	1&1
 	\end{pmatrix}
 	\\\\
+	\begin{pmatrix}
+	1&0\\
+	1&1
+	\end{pmatrix}^2
+	=
 	\begin{pmatrix}
 	1&0\\
 	2&1
 	\end{pmatrix}
 	\\\\
 	\begin{pmatrix}
-	1&1\\
+	1&0\\
+	1&1
+	\end{pmatrix}^3
+	=
+	\begin{pmatrix}
+	1&0\\
 	3&1
 	\end{pmatrix}
+\end{aligned}
+$$
+Можно заметить общее правило
+$$
+\begin{pmatrix}
+a&b\\
+c&d
+\end{pmatrix}
+\cdot
+\begin{pmatrix}
+1&0\\
+1&1
+\end{pmatrix}
+=
+\begin{pmatrix}
+a+b&b\\
+c+d&d
+\end{pmatrix}
+$$
+из которого следует, что
+$$
+\begin{pmatrix}
+1&0\\
+1&1
+\end{pmatrix}^n
+=
+\begin{pmatrix}
+1&0\\
+n&1
+\end{pmatrix}
+$$
+
+и продолжая исходное равенство
+$$
+\begin{aligned}
+\begin{pmatrix}
+2&1\\
+5&3
+\end{pmatrix}
+\cdot
+\begin{pmatrix}
+1&0\\
+1&1
+\end{pmatrix}^n
+\cdot
+\begin{pmatrix}
+3&-1\\
+-5&2
+\end{pmatrix}
+=
+\begin{pmatrix}
+2&1\\
+5&3
+\end{pmatrix}
+\cdot
+\begin{pmatrix}
+1&0\\
+n&1
+\end{pmatrix}
+\cdot
+\begin{pmatrix}
+3&-1\\
+-5&2
+\end{pmatrix}
+\\\\=
+\begin{pmatrix}
+2+n&1\\
+?&?
+\end{pmatrix}
 \end{aligned}
 $$
