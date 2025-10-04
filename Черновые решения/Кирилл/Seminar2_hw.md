@@ -18,7 +18,7 @@ $$
 0&1
 \end{pmatrix}
 $$
-##### б)
+##### б) Матрица поворота
 $$
 \begin{aligned}
 \begin{pmatrix}
@@ -37,8 +37,14 @@ $$
 \end{pmatrix}
 \\\\=
 \begin{pmatrix}
-? & ?\\
-? & \cos ?
+\cos (\alpha + \beta) & -\sin (\alpha + \beta)\\
+\sin (\alpha + \beta) & \cos (\alpha + \beta)
 \end{pmatrix}
 \end{aligned}
+$$
+## 2
+
+##### 
+$$
+
 $$
