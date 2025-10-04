@@ -277,7 +277,7 @@ XA =
 \end{aligned}
 $$
 
-Получается $\lambda_i X_{ij} = \lambda_j X_{ij}$.
+Получается $\forall i, j: \,\,\, \lambda_i X_{ij} = \lambda_j X_{ij}$.
 
 То есть на главной диагонали ($i = j$) могут быть любые элементы.
 
@@ -289,4 +289,6 @@ $$
 
 В таком случае матрица $A = \lambda 1$, а значит любая матрица $X$ коммутирует с $A$
 
-### 2 случай для некоторого $k \in [1; n - 1]$ $\lambda_1 = \lambda_2 = ... = \lambda_k > \lambda_{k + 1}$
+### 2 случай $\exists k \in [1; n - 1]$ $\lambda_1 = \lambda_2 = ... = \lambda_k > \lambda_{k + 1}$
+
+В таком случае равенство $\lambda_k X_{k, k + 1} = \lambda_{k + 1} X_{k, k + 1}$ 
