@@ -59,7 +59,7 @@ $$
 \end{pmatrix}
 \cdot
 \begin{pmatrix}
-3&1\\
+3&-1\\
 -5&2
 \end{pmatrix}
 \right)^n
@@ -67,13 +67,9 @@ $$
 $$
 
 
-
-
-
-
 $$
 \begin{pmatrix}
-3&1\\
+3&-1\\
 -5&2
 \end{pmatrix}
 \cdot
@@ -81,24 +77,9 @@ $$
 2&1\\
 5&3
 \end{pmatrix}
-\cdot
-\begin{pmatrix}
-1&0\\
-1&1
-\end{pmatrix}
 =
 \begin{pmatrix}
-11&6\\
-0&1
-\end{pmatrix}
-\cdot
-\begin{pmatrix}
 1&0\\
-1&1
-\end{pmatrix}
-=
-\begin{pmatrix}
-17&6\\
-1&1
+5&3
 \end{pmatrix}
 $$
