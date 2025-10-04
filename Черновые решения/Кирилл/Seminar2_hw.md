@@ -307,10 +307,18 @@ $$
 $$
 X = 
 \begin{pmatrix}
-X_{11} & X_{12} & \cdots & X_{1, k_1} & 0 & 0 & \cdots & 0 & 0 \\
-X_{21} & X_{22} & \cdots & X_{1, k_1} & 0 & 0 & \cdots & 0 & 0 \\
-\vdots&&&&&&&&\vdots\\
-X_{k_1, 1} & X_{k_1, 2} & \cdots & X_{k_1, k_1} & 0 & 0 & \cdots & 0 & 0 \\
-0 & 0 & \cdots & 0 & X_{k_1 + 1, k_1 + 1} & X_{k_1 + 1, k_1 + 2} & \cdots & X_{k_1 + 1, k_1 + 2} & 0 \\
+X_{11} & X_{12} & \cdots & X_{1, k_1} & 0 & 0 & \cdots & 0 & \cdots \\
+X_{21} & X_{22} & \cdots & X_{1, k_1} & 0 & 0 & \cdots & 0 & \cdots \\
+\vdots&&&&&&&\vdots\\
+X_{k_1, 1} & X_{k_1, 2} & \cdots & X_{k_1, k_1} & 0 & 0 & \cdots & 0 & \cdots \\
+0 & 0 & \cdots & 0 & X_{k_1 + 1, k_1 + 1} & X_{k_1 + 1, k_1 + 2} & \cdots & X_{k_1 + 1, k_2} & \cdots \\
+0 & 0 & \cdots & 0 & X_{k_1 + 2, k_1 + 1} & X_{k_1 + 2, k_1 + 2} & \cdots & X_{k_1 + 2, k_2} & \cdots \\
+\vdots&&&&\vdots&&&\vdots\\
+0 & 0 & \cdots & 0 & X_{k_2, k_1 + 1} & X_{k_2, k_1 + 2} & \cdots & X_{k_2, k_2} & \cdots \\
+\vdots&&&&\vdots&&&\vdots\\
 \end{pmatrix}
 $$
+
+Значения обозначенные $X_{ij}$ могут принимать любые числовые значения.
+
+
