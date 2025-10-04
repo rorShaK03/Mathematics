@@ -68,18 +68,64 @@ $$
 
 
 $$
-\begin{pmatrix}
-3&-1\\
--5&2
-\end{pmatrix}
-\cdot
+\begin{aligned}
+\left(
 \begin{pmatrix}
 2&1\\
 5&3
 \end{pmatrix}
-=
+\cdot
 \begin{pmatrix}
 1&0\\
+1&1
+\end{pmatrix}
+\cdot
+\begin{pmatrix}
+3&-1\\
+-5&2
+\end{pmatrix}
+\right)^n
+\\\\=
+\begin{pmatrix}
+2&1\\
 5&3
 \end{pmatrix}
+\cdot
+\left(
+	\begin{pmatrix}
+	1&0\\
+	1&1
+	\end{pmatrix}
+	\cdot
+	\begin{pmatrix}
+	3&-1\\
+	-5&2
+	\end{pmatrix}
+	\cdot
+	\begin{pmatrix}
+	2&1\\
+	5&3
+	\end{pmatrix}
+\right)^{n-1}
+\cdot
+	\begin{pmatrix}
+	1&0\\
+	1&1
+	\end{pmatrix}
+	\cdot
+	\begin{pmatrix}
+	3&-1\\
+	-5&2
+	\end{pmatrix}
+\\\\=
+\begin{pmatrix}
+2&1\\
+5&3
+\end{pmatrix}
+\cdot
+\begin{pmatrix}
+	1&0\\
+	1&1
+	\end{pmatrix}
+\end{aligned}
 $$
