@@ -44,7 +44,39 @@ $$
 $$
 ## 2
 
-##### 
+##### в)
 $$
-
+\left(
+\begin{pmatrix}
+2&1\\
+5&3
+\end{pmatrix}
+\cdot
+\begin{pmatrix}
+1&0\\
+1&1
+\end{pmatrix}
+\cdot
+\begin{pmatrix}
+3&1\\
+-5&2
+\end{pmatrix}
+\right)^n
+$$
+Рассмотрим, что происходит "на стыке" соседних множителей
+$$
+\begin{pmatrix}
+3&1\\
+-5&2
+\end{pmatrix}
+\cdot
+\begin{pmatrix}
+2&1\\
+5&3
+\end{pmatrix}
+=
+\begin{pmatrix}
+11&6\\
+0&1
+\end{pmatrix}
 $$
