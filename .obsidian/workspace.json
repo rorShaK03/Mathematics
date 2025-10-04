@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "c3e50d6f8a22410e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Листки/Seminar02_problems.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Seminar02_problems"
+            }
+          },
+          {
             "id": "b57c27bed2e8b9ff",
             "type": "leaf",
             "state": {
@@ -45,18 +57,6 @@
               },
               "icon": "lucide-file",
               "title": "Полезные формулы"
-            }
-          },
-          {
-            "id": "c3e50d6f8a22410e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Листки/Seminar02_problems.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Seminar02_problems"
             }
           },
           {
@@ -235,9 +235,10 @@
   },
   "active": "9d0b0104701e698c",
   "lastOpenFiles": [
-    "Задачники/Kostrikin-2009.pdf",
-    "Черновые решения/Кирилл/Seminar2_hw.md",
+    "Снимок экрана 2025-10-05 в 02.11.09.png",
     "Листки/Seminar02_problems.pdf",
+    "Черновые решения/Кирилл/Seminar2_hw.md",
+    "Задачники/Kostrikin-2009.pdf",
     "Черновые решения/Кирилл/Seminar1_hw.md",
     "Полезные формулы.md",
     "161.jpg",

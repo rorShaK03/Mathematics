@@ -236,7 +236,28 @@ n&1
 \\\\=
 \begin{pmatrix}
 2+n&1\\
-?&?
+5 + 3n&3
+\end{pmatrix}
+\cdot
+\begin{pmatrix}
+3&-1\\
+-5&2
+\end{pmatrix}
+=
+\begin{pmatrix}
+1 + 3n&-n\\
+9n&1 - 3n
 \end{pmatrix}
 \end{aligned}
+$$
+## 3
+![[Снимок экрана 2025-10-05 в 02.11.09.png]]
+
+Найдем матрицу $X$ такую что $AX = XA$.
+
+$$
+AX = 
+\begin{pmatrix}
+\lambda_1 X_{11}&
+\end{pmatrix}
 $$
