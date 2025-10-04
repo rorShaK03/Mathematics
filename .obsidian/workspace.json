@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Черновые решения/Кирилл/Seminar1_hw.md",
+                "file": "Черновые решения/Кирилл/Seminar2_hw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seminar1_hw"
+              "title": "Seminar2_hw"
             }
           },
           {
@@ -39,26 +39,26 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Семинары/Seminar02.pdf"
+                "file": "Листки/Seminar02_problems.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Seminar02"
+              "title": "Seminar02_problems"
             }
           },
           {
-            "id": "1960e0320a02a303",
+            "id": "d176c328485240f9",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Листки/Seminar01_in_class.pdf"
+                "file": "Задачники/Kostrikin-2009.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Seminar01_in_class"
+              "title": "Kostrikin-2009"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,21 +219,22 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "c3e50d6f8a22410e",
+  "active": "9d0b0104701e698c",
   "lastOpenFiles": [
+    "Снимок экрана 2025-10-05 в 00.40.20.png",
+    "Задачники/Kostrikin-2009.pdf",
+    "Черновые решения/Кирилл/Seminar2_hw.md",
+    "Листки/Seminar02_problems.pdf",
     "Лекции/Учебник.pdf",
+    "Черновые решения/Кирилл/Seminar1_hw.md",
+    "Листки/Seminar01_in_class.pdf",
     "Семинары/Seminar02.pdf",
     "Семинары/Seminar01.pdf",
     "Листки/Seminar05_problems.pdf",
     "Листки/Seminar04_problems.pdf",
     "Листки/Seminar03_problems.pdf",
-    "Листки/Seminar02_problems.pdf",
     "Untitled.base",
     "Черновые решения/Кирилл/Семинар1_inclass.md",
-    "Листки/Seminar01_problems.pdf",
-    "Листки/Seminar01_in_class.pdf",
-    "Задачники/Kostrikin-2009.pdf",
-    "Черновые решения/Кирилл/Seminar1_hw.md",
     "Снимок экрана 2025-09-27 в 23.05.33.png",
     "Снимок экрана 2025-09-27 в 22.59.31.png",
     "Снимок экрана 2025-09-27 в 22.49.05.png",
