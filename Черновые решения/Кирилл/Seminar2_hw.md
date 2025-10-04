@@ -256,8 +256,25 @@ $$
 Найдем матрицу $X$ такую что $AX = XA$.
 
 $$
+\begin{aligned}
 AX = 
 \begin{pmatrix}
-\lambda_1 X_{11}&
+\lambda_1 X_{11}&\lambda_1 X_{12}&\cdots&\lambda_1 X_{1n}\\
+\lambda_2 X_{21}&\lambda_2 X_{22}&\cdots&\lambda_2 X_{2n}\\
+\vdots&&&\vdots\\
+\lambda_{n-1} X_{n-1,1}&\lambda_{n-1} X_{n-1,2}&\cdots&\lambda_2 X_{n-1,n}\\
+\lambda_n X_{n1}&\lambda_n X_{n2}&\cdots&\lambda_2 X_{nn}\\
 \end{pmatrix}
+\\\\
+XA = 
+\begin{pmatrix}
+\lambda_1 X_{11}&\lambda_2 X_{12}&\cdots&\lambda_n X_{1n}\\
+\lambda_1 X_{21}&\lambda_2 X_{22}&\cdots&\lambda_n X_{2n}\\
+\vdots&&&\vdots\\
+\lambda_1 X_{n-1,1}&\lambda_2 X_{n-1,2}&\cdots&\lambda_n X_{n-1,n}\\
+\lambda_1 X_{n1}&\lambda_2 X_{n2}&\cdots&\lambda_n X_{nn}\\
+\end{pmatrix}
+\end{aligned}
 $$
+
+Получа
