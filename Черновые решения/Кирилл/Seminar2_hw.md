@@ -14,7 +14,31 @@ $$
 \end{pmatrix}
 =
 \begin{pmatrix}
-1&?\\
-?&?
+1&m+n\\
+0&1
 \end{pmatrix}
+$$
+##### б)
+$$
+\begin{aligned}
+\begin{pmatrix}
+\cos \alpha & -\sin \alpha\\
+\sin \alpha & \cos \alpha
+\end{pmatrix}
+\cdot
+\begin{pmatrix}
+\cos \beta & -\sin \beta\\
+\sin \beta & \cos \beta
+\end{pmatrix}
+=
+\begin{pmatrix}
+\cos \alpha \cos \beta - \sin \alpha \sin \beta & -(\sin \beta \cos \alpha + \sin \alpha \cos \beta)\\
+\sin \alpha \cos \beta + \sin \beta \cos \alpha & \cos \alpha \cos \beta - \sin \alpha \sin \beta
+\end{pmatrix}
+\\\\=
+\begin{pmatrix}
+? & ?\\
+? & \cos ?
+\end{pmatrix}
+\end{aligned}
 $$
