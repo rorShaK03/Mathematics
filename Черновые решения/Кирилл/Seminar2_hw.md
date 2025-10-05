@@ -323,9 +323,9 @@ $$
 
 ## 4
 ![[Снимок экрана 2025-10-05 в 19.09.47.png]]
-Заметим, что
+Пусть
 $$
-J(\lambda) = \lambda E + 
+SHIFT_n = 
 \begin{pmatrix}
 0&1&0&0&\cdots&0\\
 0&0&1&0&\cdots&0\\
@@ -335,67 +335,22 @@ J(\lambda) = \lambda E +
 0&0&0&0&\cdots&0\\
 \end{pmatrix}
 $$
+
 Тогда
 $$
 \begin{aligned}
-AJ(\lambda) = A\left(
-\lambda E + 
-\begin{pmatrix}
-0&1&0&0&\cdots&0\\
-0&0&1&0&\cdots&0\\
-0&0&0&1&\cdots&0\\
-\vdots&&&&&\vdots\\
-0&0&0&0&\cdots&1\\
-0&0&0&0&\cdots&0\\
-\end{pmatrix}
-\right)
-=
-\lambda A + 
-\begin{pmatrix}
-0&A_{11}&A_{12}&A_{13}&\cdots&A_{1, n-1}\\
-0&A_{21}&A_{22}&A_{23}&\cdots&A_{2, n-1}\\
-0&A_{31}&A_{32}&A_{33}&\cdots&A_{3, n-1}\\
-\vdots&&&&&\vdots\\
-0&A_{n-1, 1}&A_{n-1, 2}&A_{n-1, 3}&\cdots&A_{n-1, n-1}\\
-0&A_{n,1}&A_{n,2}&A_{n,3}&\cdots&A_{n,n-1}\\
-\end{pmatrix}
-\\\\=
-\begin{pmatrix}
-\lambda A_{11}&\lambda A_{12} + A_{11}&\lambda A_{13} + A_{12}&\lambda A_{14} + A_{13}&\cdots&\lambda A_{1, n} + A_{1, n-1}\\
-\lambda A_{21}&\lambda A_{22} + A_{21}&\lambda A_{23} + A_{22}&\lambda A_{24} + A_{23}&\cdots&\lambda A_{2, n} + A_{2, n-1}\\
-\lambda A_{31}&\lambda A_{32} + A_{31}&\lambda A_{33} + A_{32}&\lambda A_{34} + A_{33}&\cdots&\lambda A_{3, n} + A_{3, n-1}\\
-\vdots&&&&&\vdots\\
-\lambda A_{n-1, 1}&\lambda A_{n-1, 2} + A_{n-1, 1}&\lambda A_{n-1, 3} + A_{n-1, 2}&\lambda A_{n-1, 4} + A_{n-1, 3}&\cdots&\lambda A_{n-1, n} + A_{n-1, n-1}\\
-\lambda A_{n, 1}&\lambda A_{n, 2} + A_{n,1}&\lambda A_{n, 3} + A_{n,2}&\lambda A_{n, 4} + A_{n,3}&\cdots&\lambda A_{n, n} + A_{n,n-1}\\
-\end{pmatrix}
+J(\lambda) = \lambda E + SHIFT \\
+AJ(\lambda) = \lambda A + A\cdot SHIFT \\
+J(\lambda)A = \lambda A + SHIFT \cdot A
 \end{aligned}
 $$
-
-Аналогично 
+а значит
 $$
-J(\lambda)A = 
-\begin{pmatrix}
-\lambda A_{11} + A_{21}&\lambda A_{12} + A_{22}&\cdots&\lambda A_{1, n-1} + A_{2, n-1}&\lambda A_{1, n} + A_{2, n}\\
-\lambda A_{21} + A_{31}&\lambda A_{22} + A_{32}&\cdots&\lambda A_{2, n-1} + A_{3, n-1}&\lambda A_{2, n} + A_{3, n}\\
-\vdots&&&&\vdots\\
-\lambda A_{n-1, 1} + A_{n, 1}&\lambda A_{n-1, 2} + A_{n, 2}&\cdots&\lambda A_{n-1, n-1} + A_{n, n-1}&\lambda A_{n-1, n} + A_{n, n}\\
-\lambda A_{n1}&\lambda A_{n2}&\cdots&\lambda A_{n, n-1}&\lambda A_{n, n}\\
-\end{pmatrix}
+AJ(\lambda) - J(\lambda)A = A \cdot SHIFT - SHIFT \cdot A
 $$
 
-Сравнивая первые столбцы $A_{21} = A_{31} = ... = A_{n, 1} = 0$.
 
-Сравнивая вторые столбцы
-$$
-\begin{aligned}
-A_{11} = A_{22}\\
-A_{21} = A_{32}\\
-A_{31} = A_{42}\\
-...
-A_{n-1, 1} = A_{n, 2}\\
-A_{n, 1} = A_{}
-\end{aligned}
-$$
+
 
 
 
