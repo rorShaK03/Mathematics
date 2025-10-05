@@ -351,13 +351,15 @@ AJ(\lambda) = A\left(
 =
 \lambda A + 
 \begin{pmatrix}
-0&1&0&0&\cdots&0\\
-0&0&1&0&\cdots&0\\
-0&0&0&1&\cdots&0\\
+0&A_{11}&A_{12}&A_{13}&\cdots&A_{1n}\\
+0&A_{21}&A_{22}&A_{23}&\cdots&A_{2n}\\
+0&A_{31}&A_{32}&A_{33}&\cdots&A_{3n}\\
 \vdots&&&&&\vdots\\
-0&0&0&0&\cdots&1\\
-0&0&0&0&\cdots&0\\
+0&A_{n-1,1}&A_{12}&A_{13}&\cdots&A_{1n}\\
+0&A_{11}&A_{12}&A_{13}&\cdots&A_{1n}\\
 \end{pmatrix}
+=
+
 $$
 
 
