@@ -47,14 +47,12 @@
             "id": "b57c27bed2e8b9ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Черновые решения/Кирилл/Seminar2_hw.md",
-                "mode": "source",
-                "source": false
+                "file": "Листки/Seminar03_problems.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Seminar2_hw"
+              "icon": "lucide-file-text",
+              "title": "Seminar03_problems"
             }
           },
           {
@@ -70,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -231,25 +229,25 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "c3e50d6f8a22410e",
+  "active": "b57c27bed2e8b9ff",
   "lastOpenFiles": [
+    "Черновые решения/Кирилл/Seminar2_hw.md",
+    "Листки/Seminar21_problems.pdf",
+    "Листки/Seminar31_problems.pdf",
+    "Листки/Seminar32_problems.pdf",
+    "Листки/Seminar33_problems.pdf",
+    "Листки/Seminar34_problems.pdf",
+    "Листки/Seminar04_problems.pdf",
+    "Листки/Seminar03_problems.pdf",
+    "Листки/Seminar02_problems.pdf",
     "Листки/Seminar01_problems.pdf",
     "Семинары/Seminar02.pdf",
-    "Черновые решения/Кирилл/Seminar2_hw.md",
-    "Листки/Seminar02_problems.pdf",
-    "Лекции/Учебник.pdf",
-    "Задачники/Kostrikin-2009.pdf",
     "Снимок экрана 2025-10-05 в 19.09.47.png",
-    "Листки/Seminar16_problems.pdf",
-    "Листки/Seminar03_problems.pdf",
     "Полезные формулы.md",
     "Снимок экрана 2025-10-05 в 02.11.09.png",
     "Черновые решения/Кирилл/Seminar1_hw.md",
     "161.jpg",
     "Снимок экрана 2025-10-05 в 00.40.20.png",
-    "Листки/Seminar01_in_class.pdf",
-    "Семинары/Seminar01.pdf",
-    "Листки/Seminar05_problems.pdf",
     "Черновые решения/Кирилл/Семинар1_inclass.md",
     "Снимок экрана 2025-09-27 в 23.05.33.png",
     "Снимок экрана 2025-09-27 в 22.59.31.png",
