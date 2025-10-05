@@ -37,10 +37,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Листки/Seminar02_problems.pdf"
+                "file": "Семинары/Seminar02.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Seminar02_problems"
+              "title": "Seminar02"
             }
           },
           {
@@ -233,11 +233,11 @@
   },
   "active": "b57c27bed2e8b9ff",
   "lastOpenFiles": [
+    "Семинары/Seminar02.pdf",
     "Листки/Seminar02_problems.pdf",
     "Черновые решения/Кирилл/Seminar2_hw.md",
     "Лекции/Учебник.pdf",
     "Задачники/Kostrikin-2009.pdf",
-    "Семинары/Seminar02.pdf",
     "Снимок экрана 2025-10-05 в 19.09.47.png",
     "Листки/Seminar01_problems.pdf",
     "Листки/Seminar16_problems.pdf",
