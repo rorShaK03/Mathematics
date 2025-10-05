@@ -439,38 +439,28 @@ $$
 0&0&1&0&\cdots&0&0\\
 0&0&0&1&\cdots&0&0\\
 \vdots&&&&&&\vdots\\
-0&0&0&0&\cdots&1&0\\
-1&0&0&0&\cdots&0&1\\
-\end{pmatrix}
-= SHIFT + 
-\begin{pmatrix}
-0&0&0&0&\cdots&0&0\\
-0&0&0&0&\cdots&0&0\\
-0&0&0&0&\cdots&0&0\\
-\vdots&&&&&&\vdots\\
-0&0&0&0&\cdots&0&0\\
+0&0&0&0&\cdots&0&1\\
 1&0&0&0&\cdots&0&0\\
 \end{pmatrix}
 $$
-Пусть
-$$
-M =
-\begin{pmatrix}
-0&0&0&0&\cdots&0&0\\
-0&0&0&0&\cdots&0&0\\
-0&0&0&0&\cdots&0&0\\
-\vdots&&&&&&\vdots\\
-0&0&0&0&\cdots&0&0\\
-1&0&0&0&\cdots&0&0\\
-\end{pmatrix}
-$$
+это матрица циклического сдвига.
 
-Значит
+Рассмотрим
 $$
 \begin{align}
-A \cdot CSHIFT = A \cdot SHIFT + A \cdot M
+A \cdot CSHIFT =
+\begin{pmatrix}
+A_{1n}&A_{11}&A_{12}&\cdots&A_{1, n - 1}\\
+A_{2n}&A_{21}&A_{22}&\cdots&A_{2, n - 1}\\
+\vdots&&&&\vdots\\
+A_{nn}&A_{n1}&A_{n2}&\cdots&A_{n, n - 1}\\
+\end{pmatrix}
+\\\\
+
 \end{align}
 $$
+
+
 
 
 
