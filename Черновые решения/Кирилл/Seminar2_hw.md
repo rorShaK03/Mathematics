@@ -376,12 +376,12 @@ $$
 $$
 A = 
 \begin{pmatrix}
-a\\
-0\\
-0\\
+a&b&c&\cdots&d&e\\
+0&a&b&\cdots&&d\\
+0&0&a&\cdots&\\
 \vdots\\
-0\\
-0&0&0&\cdots&0&?
+0&0&0&\cdots&a&b\\
+0&0&0&\cdots&0&a
 \end{pmatrix}
 $$
 
