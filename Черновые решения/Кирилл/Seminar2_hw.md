@@ -346,8 +346,29 @@ J(\lambda)A = \lambda A + SHIFT \cdot A
 $$
 а значит
 $$
-AJ(\lambda) - J(\lambda)A = A \cdot SHIFT - SHIFT \cdot A
+AJ(\lambda) - J(\lambda)A = A \cdot SHIFT - SHIFT \cdot A = 0
 $$
+
+$$
+\begin{aligned}
+A \cdot SHIFT =
+\begin{pmatrix}
+0&A_{11}&A_{12}&\cdots&A_{1, n-1}\\
+0&A_{21}&A_{22}&\cdots&A_{2, n-1}\\
+\vdots&&&&\vdots\\
+0&A_{n1}&A_{n2}&\cdots&A_{n, n-1}\\
+\end{pmatrix} \\\\
+
+SHIFT \cdot A = 
+\begin{pmatrix}
+A_{21}&A_{22}&A_{23}&\cdots&A_{2, n}\\
+A_{31}&A_{32}&A_{33}&\cdots&A_{3, n-1}\\
+\vdots&&&&\vdots\\
+0&A_{n1}&A_{n2}&\cdots&A_{n, n-1}\\
+\end{pmatrix} 
+\end{aligned}
+$$
+
 
 
 
