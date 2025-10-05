@@ -410,14 +410,28 @@ $$
 Таким образом $k$-й член суммы, например, равен
 $$
 \begin{pmatrix}
-\lam&0&0&0&\cdots&0&0\\
-0&1&0&0&\cdots&0&0\\
-0&0&1&0&\cdots&0&0\\
+C_k^k \lambda^k&0&0&0&\cdots&0&0\\
+0&C_k^k \lambda^k&0&0&\cdots&0&0\\
+0&0&C_k^k \lambda^k&0&\cdots&0&0\\
 \vdots&&&&&&\vdots\\
-0&0&0&0&\cdots&1&0\\
-0&0&0&0&\cdots&0&1\\
+0&0&0&0&\cdots&C_k^k \lambda^k&0\\
+0&0&0&0&\cdots&0&C_k^k \lambda^k\\
 \end{pmatrix}
 $$
+а $k-1$-й равен
+$$
+\begin{pmatrix}
+0&C_k^{k-1} \lambda^{k-1}&0&0&\cdots&0&0\\
+0&0&C_k^{k-1} \lambda^{k-1}&0&\cdots&0&0\\
+0&0&0&C_k^{k-1} \lambda^{k-1}&\cdots&0&0\\
+\vdots&&&&&&\vdots\\
+0&0&0&0&\cdots&0&C_k^{k-1} \lambda^{k-1}\\
+0&0&0&0&\cdots&0&0\
+\end{pmatrix}
+$$
+и общая сумма имеет вид, описанный в условии. При это для $k - i \ge n$ будет верно $SHIFT^{k - i} = 0$ (сдвиг выйдет за границы матрицы), поэтому эти члены суммы будут просто нулевыми.
+
+
 
 
 
