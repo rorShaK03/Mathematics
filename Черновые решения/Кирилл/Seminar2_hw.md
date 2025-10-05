@@ -362,13 +362,19 @@ AJ(\lambda) = A\left(
 \\\\=
 \begin{pmatrix}
 \lambda A_{11}&\lambda A_{12} + A_{11}&\lambda A_{13} + A_{12}&\lambda A_{14} + A_{13}&\cdots&\lambda A_{1, n} + A_{1, n-1}\\
-\lambda A_{21}&\lambda A_{22} + A_{21}&\lambda A_{23} + A_{22}&\lambda A_{13} + A_{23}&\cdots&A_{2, n-1}\\
-\lambda A_{31}&A_{31}&A_{32}&A_{33}&\cdots&A_{3, n-1}\\
+\lambda A_{21}&\lambda A_{22} + A_{21}&\lambda A_{23} + A_{22}&\lambda A_{24} + A_{23}&\cdots&\lambda A_{2, n} + A_{2, n-1}\\
+\lambda A_{31}&\lambda A_{32} + A_{31}&\lambda A_{33} + A_{32}&\lambda A_{34} + A_{33}&\cdots&\lambda A_{3, n} + A_{3, n-1}\\
 \vdots&&&&&\vdots\\
-\lambda A_{n-1, 1}&A_{n-1, 1}&A_{n-1, 2}&A_{n-1, 3}&\cdots&A_{n-1, n-1}\\
-\lambda A_{n, 1}&A_{n,1}&A_{n,2}&A_{n,3}&\cdots&A_{n,n-1}\\
+\lambda A_{n-1, 1}&\lambda A_{n-1, 2} + A_{n-1, 1}&\lambda A_{n-1, 3} + A_{n-1, 2}&\lambda A_{n-1, 4} + A_{n-1, 3}&\cdots&\lambda A_{n-1, n} + A_{n-1, n-1}\\
+\lambda A_{n, 1}&\lambda A_{n, 2} + A_{n,1}&\lambda A_{n, 3} + A_{n,2}&\lambda A_{n, 4} + A_{n,3}&\cdots&\lambda A_{n, n} + A_{n,n-1}\\
 \end{pmatrix}
 \end{aligned}
+$$
+
+Аналогично 
+$$
+J(\lambda)A = 
+\be
 $$
 
 
