@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Семинары/Seminar02.pdf"
+                "file": "Лекции/Учебник.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Seminar02"
+              "title": "Учебник"
             }
           },
           {
@@ -234,14 +234,14 @@
   "active": "b57c27bed2e8b9ff",
   "lastOpenFiles": [
     "Листки/Seminar02_problems.pdf",
-    "Семинары/Seminar02.pdf",
-    "Черновые решения/Кирилл/Seminar2_hw.md",
     "Лекции/Учебник.pdf",
+    "Задачники/Kostrikin-2009.pdf",
+    "Черновые решения/Кирилл/Seminar2_hw.md",
+    "Семинары/Seminar02.pdf",
     "Снимок экрана 2025-10-05 в 19.09.47.png",
     "Листки/Seminar01_problems.pdf",
     "Листки/Seminar16_problems.pdf",
     "Листки/Seminar03_problems.pdf",
-    "Задачники/Kostrikin-2009.pdf",
     "Полезные формулы.md",
     "Снимок экрана 2025-10-05 в 02.11.09.png",
     "Черновые решения/Кирилл/Seminar1_hw.md",
