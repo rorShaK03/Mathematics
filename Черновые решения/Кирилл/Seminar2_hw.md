@@ -329,7 +329,34 @@ J(\lambda) = \lambda E +
 \begin{pmatrix}
 0&1&0&0&\cdots&0\\
 0&0&1&0&\cdots&0\\
+0&0&0&1&\cdots&0\\
+\vdots&&&&&\vdots\\
+0&0&0&0&\cdots&1\\
+0&0&0&0&\cdots&0\\
+\end{pmatrix}
+$$
+Тогда
+$$
+AJ(\lambda) = A\left(
+\lambda E + 
+\begin{pmatrix}
+0&1&0&0&\cdots&0\\
 0&0&1&0&\cdots&0\\
+0&0&0&1&\cdots&0\\
+\vdots&&&&&\vdots\\
+0&0&0&0&\cdots&1\\
+0&0&0&0&\cdots&0\\
+\end{pmatrix}
+\right)
+=
+\lambda A + 
+\begin{pmatrix}
+0&1&0&0&\cdots&0\\
+0&0&1&0&\cdots&0\\
+0&0&0&1&\cdots&0\\
+\vdots&&&&&\vdots\\
+0&0&0&0&\cdots&1\\
+0&0&0&0&\cdots&0\\
 \end{pmatrix}
 $$
 
