@@ -49,10 +49,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Листки/Seminar06_problems.pdf"
+                "file": "Решения/Семинар1_inclass.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Seminar06_problems"
+              "title": "Семинар1_inclass"
             }
           },
           {
@@ -231,11 +231,11 @@
   },
   "active": "b57c27bed2e8b9ff",
   "lastOpenFiles": [
+    "Листки/Seminar06_problems.pdf",
     "Листки/Seminar01_in_class.pdf",
     "Листки/Seminar04_problems.pdf",
     "Листки/Seminar03_problems.pdf",
     "Листки/Seminar02_problems.pdf",
-    "Листки/Seminar06_problems.pdf",
     "Листки/Seminar05_problems.pdf",
     "Черновые решения/Кирилл/Seminar2_hw.md",
     "Листки/Seminar21_problems.pdf",
