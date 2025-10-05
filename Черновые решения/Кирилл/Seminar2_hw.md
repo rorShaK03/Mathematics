@@ -323,6 +323,7 @@ $$
 
 ## 4
 ![[Снимок экрана 2025-10-05 в 19.09.47.png]]
+##### a)
 Пусть
 $$
 SHIFT_n = 
@@ -348,44 +349,20 @@ $$
 $$
 AJ(\lambda) - J(\lambda)A = A \cdot SHIFT - SHIFT \cdot A = 0
 $$
-
-$$
-\begin{aligned}
-A \cdot SHIFT =
-\begin{pmatrix}
-0&A_{11}&A_{12}&\cdots&A_{1, n-1}\\
-0&A_{21}&A_{22}&\cdots&A_{2, n-1}\\
-\vdots&&&&\vdots\\
-0&A_{n1}&A_{n2}&\cdots&A_{n, n-1}\\
-\end{pmatrix} \\\\
-
-SHIFT \cdot A = 
-\begin{pmatrix}
-A_{21}&A_{22}&A_{23}&\cdots&A_{2, n}\\
-A_{31}&A_{32}&A_{33}&\cdots&A_{3, n-1}\\
-\vdots&&&&\vdots\\
-0&0&0&\cdots&0\\
-\end{pmatrix} 
-\end{aligned}
-$$
-Сравнивая первые столбцы $A_{21} = A_{31} = ... = A_{n1} = 0$.
-
-Сравнивая последние строки $A_{n1} = A_{n2} = ... = A_{n, n-1} = 0$.
-
-Теперь в силу того что один сдвиг влево а другой вверх заметим, что для любой позиции $i, j: i \in [1; n-1], j \in [2; n]$ верно что $A_{i+1, j} = A_{i, j-1}$. Значит 
+По материалу семинара матрица $A$ может иметь только такой вид
 $$
 A = 
 \begin{pmatrix}
-a&b&c&\cdots&d&e\\
-0&a&b&\cdots&&d\\
-0&0&a&\cdots&\\
-\vdots\\
-0&0&0&\cdots&a&b\\
-0&0&0&\cdots&0&a
+a_1&a_2&a_3&\cdots&a_{n-1}&a_n\\
+0&a_1&a_2&\cdots&a_{n-2}&a_{n-1}\\
+\vdots&&&&&\vdots\\
+0&0&0&\cdots&a_1&a_2\\
+0&0&0&\cdots&0&a_1
 \end{pmatrix}
 $$
 
 
+##### b)
 
 
 
