@@ -374,8 +374,15 @@ $$
 Аналогично 
 $$
 J(\lambda)A = 
-\be
+\begin{pmatrix}
+\lambda A_{11} + A_{21}&\lambda A_{12} + A_{22}&\cdots&\lambda A_{1, n-1} + A_{2, n-1}&\lambda A_{1, n} + A_{2, n}\\
+\lambda A_{21} + A_{31}&\lambda A_{22} + A_{32}&\cdots&\lambda A_{2, n-1} + A_{3, n-1}&\lambda A_{2, n} + A_{3, n}\\
+\vdots&&&&\vdots\\
+\lambda A_{n-1, 1} + A_{n, 1}&\lambda A_{n-1, 2} + A_{n, 2}&\cdots&\lambda A_{n-1, n-1} + A_{n, n-1}&\lambda A_{n-1, n} + A_{n, n}\\
+\lambda A_{n1}&\lambda A_{n2}&\cdots&\lambda A_{n, n-1}&\lambda A_{n, n}\\
+\end{pmatrix}
 $$
+
 
 
 
