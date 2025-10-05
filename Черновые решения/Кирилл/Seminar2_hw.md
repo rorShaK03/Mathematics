@@ -366,8 +366,12 @@ $$
 
 В силу того что матрицы $\lambda E$ и $SHIFT$ коммутативны по умножению, мы можем применить бином Ньютона
 $$
-J(\lambda)^k = (\lambda E + SHIFT)^k = (\lambda E)
+J(\lambda)^k = (\lambda E + SHIFT)^k = \sum_{i = 0}^k C_k^i (\lambda E)^i SHIFT^{k - i} = \sum_{i = 0}^k C_k^i \lambda^i SHIFT^{k - i}
 $$
+Посмотрим из чего состоит выражение
+
+- $C_k^i \lambda^i$ - числовое выражение
+- $SHIFT^{k - i}$ - матрица сдвига. Она соответствует сдвигу единичной матрицы на $k - i$ 
 
 
 
