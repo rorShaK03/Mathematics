@@ -23,14 +23,12 @@
             "id": "9d0b0104701e698c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Черновые решения/Кирилл/Seminar2_hw.md",
-                "mode": "source",
-                "source": false
+                "file": "Семинары/Seminar02.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Seminar2_hw"
+              "icon": "lucide-file-text",
+              "title": "Seminar02"
             }
           },
           {
@@ -49,12 +47,14 @@
             "id": "b57c27bed2e8b9ff",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Семинары/Seminar02.pdf"
+                "file": "Черновые решения/Кирилл/Seminar2_hw.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Seminar02"
+              "icon": "lucide-file",
+              "title": "Seminar2_hw"
             }
           },
           {
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -231,18 +231,18 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "9d0b0104701e698c",
+  "active": "b57c27bed2e8b9ff",
   "lastOpenFiles": [
-    "Снимок экрана 2025-10-05 в 19.09.47.png",
+    "Семинары/Seminar02.pdf",
     "Листки/Seminar02_problems.pdf",
+    "Лекции/Учебник.pdf",
     "Черновые решения/Кирилл/Seminar2_hw.md",
+    "Снимок экрана 2025-10-05 в 19.09.47.png",
     "Листки/Seminar01_problems.pdf",
     "Листки/Seminar16_problems.pdf",
     "Листки/Seminar03_problems.pdf",
-    "Семинары/Seminar02.pdf",
     "Задачники/Kostrikin-2009.pdf",
     "Полезные формулы.md",
-    "Лекции/Учебник.pdf",
     "Снимок экрана 2025-10-05 в 02.11.09.png",
     "Черновые решения/Кирилл/Seminar1_hw.md",
     "161.jpg",
