@@ -35,26 +35,26 @@
             "id": "c3e50d6f8a22410e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Листки/Seminar02_problems.pdf"
+                "file": "Черновые решения/Кирилл/Seminar2_hw.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Seminar02_problems"
+              "icon": "lucide-file",
+              "title": "Seminar2_hw"
             }
           },
           {
             "id": "b57c27bed2e8b9ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Черновые решения/Кирилл/Семинар1_inclass.md",
-                "mode": "source",
-                "source": false
+                "file": "Лекции/Учебник.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Семинар1_inclass"
+              "icon": "lucide-file-text",
+              "title": "Учебник"
             }
           },
           {
@@ -233,13 +233,15 @@
   },
   "active": "b57c27bed2e8b9ff",
   "lastOpenFiles": [
+    "Семинары/Seminar02.pdf",
+    "Листки/Seminar02_problems.pdf",
     "Черновые решения/Кирилл/Seminar2_hw.md",
+    "Черновые решения/Кирилл/Семинар1_inclass.md",
     "Решения/Семинар1_inclass.pdf",
     "Листки/Seminar06_problems.pdf",
     "Листки/Seminar01_in_class.pdf",
     "Листки/Seminar04_problems.pdf",
     "Листки/Seminar03_problems.pdf",
-    "Листки/Seminar02_problems.pdf",
     "Листки/Seminar05_problems.pdf",
     "Листки/Seminar21_problems.pdf",
     "Листки/Seminar31_problems.pdf",
@@ -250,7 +252,6 @@
     "Черновые решения/Кирилл/Seminar1_hw.md",
     "161.jpg",
     "Снимок экрана 2025-10-05 в 00.40.20.png",
-    "Черновые решения/Кирилл/Семинар1_inclass.md",
     "Снимок экрана 2025-09-27 в 23.05.33.png",
     "Снимок экрана 2025-09-27 в 22.59.31.png",
     "Снимок экрана 2025-09-27 в 22.49.05.png",
