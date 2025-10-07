@@ -58,6 +58,18 @@
             }
           },
           {
+            "id": "07685e05d472213e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
             "id": "d176c328485240f9",
             "type": "leaf",
             "state": {
@@ -70,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -231,7 +243,7 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "b57c27bed2e8b9ff",
+  "active": "07685e05d472213e",
   "lastOpenFiles": [
     "Семинары/Seminar02.pdf",
     "Листки/Seminar02_problems.pdf",
