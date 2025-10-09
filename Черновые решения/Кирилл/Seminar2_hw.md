@@ -541,14 +541,19 @@ $$
 Заметим, что
 $$
 \begin{aligned}
-(A - E) \sum_{i = 0}^{m - 1} A^iE^{m - 1 - i} = (A - E) \sum_{i = 0}^{m - 1} A^i \\= A^m - E \cdot A^{m - 1} + A^{m - 1} - E \cdot A^{m - 2} + ... + A^2 - E \cdot A + A - E = A^m - E = -E
+(A - E) \sum_{i = 0}^{m - 1} A^iE^{m - 1 - i} = (A - E) \sum_{i = 0}^{m - 1} A^i \\= A + A^m - E \cdot A^{m - 1} + A^{m - 1} - E \cdot A^{m - 2} + ... + A^2 - E \cdot A + A - E = A^m - E = -E
 \end{aligned}
 $$
 А значит
 $$
 -\sum_{i = 0}^{m - 1} A^i
 $$
-обратная матрица для $$
+обратная матрица для $A - E$ по определению.
+
+Аналогично для четного $n$ верно, что
+$$
+(A + E) \sum_{i = 0}^{m - 1} (-1)^n A^iE^{m - 1 - i} = (A + E) \sum_{i = 0}^{m - 1} (-1)^n A^i = 
+$$
 
 
 
