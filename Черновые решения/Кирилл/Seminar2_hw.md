@@ -515,12 +515,12 @@ $$
 $$
 \begin{pmatrix}
 a_1&a_2&a_3&a_4&\cdots&a_{n-2}&a_{n-1}&a_n\\
-a_{n-1}&a_1&a_2&a_3&\cdots&a_{n-3}&a_{n-2}&a_{n-1}\\
-a_{n-2}&?&a_1&a_2&\cdots&a_{n-4}&a_{n-3}&a_{n-2}\\
+a_{n}&a_1&a_2&a_3&\cdots&a_{n-3}&a_{n-2}&a_{n-1}\\
+a_{n-1}&?&a_1&a_2&\cdots&a_{n-4}&a_{n-3}&a_{n-2}\\
 \vdots&&&&&&&\vdots\\
-a_3&?&?&?&\cdots&a_1&a_2&a_3\\
-a_2&?&?&?&\cdots&?&a_1&a_2\\
-a_1&a_2&a_3&a_4&\cdots&a_{n-2}&a_{n-1}&a_1\\
+a_4&?&?&?&\cdots&a_1&a_2&a_3\\
+a_3&?&?&?&\cdots&?&a_1&a_2\\
+a_2&a_3&a_4&a_5&\cdots&a_{n-1}&a_{n}&a_1\\
 \end{pmatrix}
 $$
 
@@ -528,12 +528,12 @@ $$
 $$
 \begin{pmatrix}
 a_1&a_2&a_3&a_4&\cdots&a_{n-2}&a_{n-1}&a_n\\
-a_{n-1}&a_1&a_2&a_3&\cdots&a_{n-3}&a_{n-2}&a_{n-1}\\
-a_{n-2}&a_{n-1}&a_1&a_2&\cdots&a_{n-4}&a_{n-3}&a_{n-2}\\
+a_{n}&a_1&a_2&a_3&\cdots&a_{n-3}&a_{n-2}&a_{n-1}\\
+a_{n-1}&a_{n}&a_1&a_2&\cdots&a_{n-4}&a_{n-3}&a_{n-2}\\
 \vdots&&&&&&&\vdots\\
-a_3&a_4&a_5&a_6&\cdots&a_1&a_2&a_3\\
-a_2&a_3&a_4&a_5&\cdots&a_{n-1}&a_1&a_2\\
-a_1&a_2&a_3&a_4&\cdots&a_{n-2}&a_{n-1}&a_1\\
+a_4&a_5&a_6&a_7&\cdots&a_1&a_2&a_3\\
+a_3&a_4&a_5&a_6&\cdots&a_{n}&a_1&a_2\\
+a_2&a_3&a_4&a_5&\cdots&a_{n-1}&a_{n}&a_1\\
 \end{pmatrix}
 $$
 
