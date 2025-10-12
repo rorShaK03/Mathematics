@@ -56,8 +56,21 @@
               "icon": "lucide-file-text",
               "title": "Kostrikin-2009"
             }
+          },
+          {
+            "id": "cec3ce170b28c589",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Решения/Seminar2_hw.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Seminar2_hw"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -218,19 +231,19 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "c3e50d6f8a22410e",
+  "active": "cec3ce170b28c589",
   "lastOpenFiles": [
-    "Листки/Seminar03_problems.pdf",
+    "Листки/Seminar02_problems.pdf",
     "Задачники/Kostrikin-2009.pdf",
+    "Листки/Seminar03_problems.pdf",
     "Черновые решения/Кирилл/Seminar3_hw.md",
-    "Семинары/Seminar03.pdf",
     "Лекции/Учебник.pdf",
+    "Семинары/Seminar03.pdf",
     "Черновые решения/Кирилл/Seminar2_hw.md",
     "Семинары/Seminar04.pdf",
     "Решения/Seminar2_hw.pdf",
     "Решения/Seminar1_hw.pdf",
     "Черновые решения/Кирилл/Seminar1_hw.md",
-    "Листки/Seminar02_problems.pdf",
     "Семинары/Seminar02.pdf",
     "Черновые решения/Кирилл/Семинар1_inclass.md",
     "Решения/Семинар1_inclass.pdf",
