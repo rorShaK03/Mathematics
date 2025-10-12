@@ -324,7 +324,15 @@ X = \sum_{i = 1}^{m} (-1)^i A^i
 $$
 
 ## 7
-
+$$
+\begin{align}
+(E + AB)X = E \\
+X + ABX = E \\
+E - X = ABX
+\\\\\\
+X(E + BA)
+\end{align}
+$$
 
 
 
