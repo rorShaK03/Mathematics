@@ -109,7 +109,54 @@ X
 3&3\\
 3&2
 \end{pmatrix}
-
+\begin{pmatrix}
+-2&3\\
+1&-1
+\end{pmatrix}
+=
+\begin{pmatrix}
+0&1\\
+3&0
+\end{pmatrix}
+\begin{pmatrix}
+-2&3\\
+1&-1
+\end{pmatrix}
+=
+\begin{pmatrix}
+1&-1\\
+-6&9
+\end{pmatrix}
 \end{align}
+$$
+
+## 2
+$$
+A = 
+\begin{pmatrix}
+a&b\\
+c&d
+\end{pmatrix}
+$$
+$$
+A^2 - tr(A)A =
+\begin{pmatrix}
+a^2 + bc&ab + bd\\
+ac + cd&bc + d^2
+\end{pmatrix}
+-
+(a + d)
+\begin{pmatrix}
+a&b\\
+c&d
+\end{pmatrix}
+=
+\begin{pmatrix}
+a^2 + bc&ab + bd\\
+ac + cd&bc + d^2
+\end{pmatrix}
+-
+\begin{pmatrix}
+\end{pmatrix}
 $$
 
