@@ -23,6 +23,32 @@ $$
 	1&1\\
 	1&1
 	\end{pmatrix}
+	=
+	\frac{1}{2-3}
+	\begin{pmatrix}
+	2&-3\\
+	-1&2
+	\end{pmatrix}
+	\cdot
+	\begin{pmatrix}
+	1&1\\
+	1&1
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+	-2&3\\
+	1&-2
+	\end{pmatrix}
+	\cdot
+	\begin{pmatrix}
+	1&1\\
+	1&1
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+	1&1\\
+	-1&-1
+	\end{pmatrix}
 \end{align}
 $$
 
