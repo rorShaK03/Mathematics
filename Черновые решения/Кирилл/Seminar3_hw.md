@@ -27,7 +27,7 @@ $$
 	\frac{1}{2-3}
 	\begin{pmatrix}
 	2&-3\\
-	-1&2
+	-1&1
 	\end{pmatrix}
 	\cdot
 	\begin{pmatrix}
@@ -37,7 +37,7 @@ $$
 	=
 	\begin{pmatrix}
 	-2&3\\
-	1&-2
+	1&-1
 	\end{pmatrix}
 	\cdot
 	\begin{pmatrix}
@@ -47,8 +47,14 @@ $$
 	=
 	\begin{pmatrix}
 	1&1\\
-	-1&-1
+	0&0
 	\end{pmatrix}
 \end{align}
+$$
+#### д)
+$$
+\begin{pmatrix}
+
+\end{pmatrix}
 $$
 
