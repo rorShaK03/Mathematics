@@ -560,12 +560,12 @@ $$
 Аналогично для четного $m$ верно, что
 $$
 \begin{align}
-(A + E) \sum_{i = 0}^{m - 1} (-1)^n A^iE^{m - 1 - i} = (A + E) \sum_{i = 0}^{m - 1} (-1)^n A^i \\= A + E - A^2 - E \cdot A + A^3 + E \cdot A^2 - ... + A^{m-1} + E \cdot A^{m - 2} - A^{m} - E \cdot A^{m - 1} = E - A^m = E
+(A + E) \sum_{i = 0}^{m - 1} (-1)^i A^iE^{m - 1 - i} = (A + E) \sum_{i = 0}^{m - 1} (-1)^i A^i \\= A + E - A^2 - E \cdot A + A^3 + E \cdot A^2 - ... + A^{m-1} + E \cdot A^{m - 2} - A^{m} - E \cdot A^{m - 1} = E - A^m = E
 \end{align}
 $$
 А значит
 $$
-\sum_{i = 0}^{m - 1} (-1)^n A^i
+\sum_{i = 0}^{m - 1} (-1)^i A^i
 $$
 обратная матрица для $A + E$
 
