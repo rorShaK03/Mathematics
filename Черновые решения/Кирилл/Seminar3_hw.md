@@ -157,6 +157,8 @@ ac + cd&bc + d^2
 \end{pmatrix}
 -
 \begin{pmatrix}
+a^2 + ad&ab + bd\\
+ac + cd&ad + d^2
 \end{pmatrix}
 $$
 
