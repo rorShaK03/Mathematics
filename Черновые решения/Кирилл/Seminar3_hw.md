@@ -330,7 +330,7 @@ $$
 X + ABX = E \\
 E - X = ABX
 \\\\\\
-X(E + BA)
+X(E + BA) = X + XBA
 \end{align}
 $$
 
