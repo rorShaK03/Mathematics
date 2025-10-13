@@ -330,9 +330,17 @@ $$
 X + ABX = E \\
 E - X = ABX
 \\\\\\
-X(E + BA) = X + XBA
+X(E + AB) = E \\
+X + XAB = E \\
+E - X = XAB 
+\\\\
+XAB = ABX \\
+A^{-1}XA(E + BA) = A^{-1}XA + A^{-1}XABA \\
+A^{-1}XA + A^{-1}(E - X)A = A^{-1}A = E
 \end{align}
 $$
+
+Как доказать что $A$ обратима?
 
 
 
