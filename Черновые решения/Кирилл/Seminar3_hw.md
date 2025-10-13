@@ -341,7 +341,7 @@ A^{-1}XA + A^{-1}(E - X)A = A^{-1}A = E
 $$
 
 $$
-(E - BXA)(E + BA) = E + BA
+(E - BXA)(E + BA) = E + BA - BXA - BXABA = E + BA - BX(E + AB)A
 $$
 
 Как доказать что $A$ обратима?
