@@ -324,28 +324,21 @@ X = \sum_{i = 1}^{m} (-1)^i A^i
 $$
 
 ## 7
+>[!warn]
+> На самом деле конструкцию $E - BXA$ я придумал с помощью гпт, я плохо понимаю какая за ней стоит интуиция
+
+
+Пусть $X$ - обратная к $E - AB$, тогда
 $$
 \begin{align}
-(E + AB)X = E \\
-X + ABX = E \\
-E - X = ABX
-\\\\\\
-X(E + AB) = E \\
-X + XAB = E \\
-E - X = XAB 
-\\\\
-XAB = ABX \\
-A^{-1}XA(E + BA) = A^{-1}XA + A^{-1}XABA \\
-A^{-1}XA + A^{-1}(E - X)A = A^{-1}A = E
+(E - BXA)(E + BA) = E + BA - BXA - BXABA = E + BA - BX(E + AB)A \\= E + BA - BA = E
 \end{align}
 $$
-
-$$
-(E - BXA)(E + BA) = E + BA - BXA - BXABA = E + BA - BX(E + AB)A
+Значит
 $$
 
-Как доказать что $A$ обратима?
 
+## 8
 
 
 
