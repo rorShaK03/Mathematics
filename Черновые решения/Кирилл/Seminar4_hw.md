@@ -75,7 +75,16 @@ $$
 0&0&0&-1&-1&-2&0&1
 \end{array}
 \right)
+\\\\
+\rightarrow
+\left(
+\begin{array}{cccc|cccc}
+1&0&0&0&-1&-6&1&3\\
+0&1&0&0&0&2&0&-1\\
+0&0&1&0&0&1&0&-1\\
+0&0&0&1&1&2&0&-1
+\end{array}
+\right)
 \end{align}
-
-
 $$
+## 2
