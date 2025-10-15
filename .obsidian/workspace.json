@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Листки/Seminar03_problems.pdf"
+                "file": "Листки/Seminar04_problems.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Seminar03_problems"
+              "title": "Seminar04_problems"
             }
           },
           {
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,8 +217,10 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "07685e05d472213e",
+  "active": "b57c27bed2e8b9ff",
   "lastOpenFiles": [
+    "Листки/Seminar03_problems.pdf",
+    "Лекции/Учебник.pdf",
     "Семинары/Seminar04.pdf",
     "Черновые решения/Кирилл/Seminar4_hw.md",
     "Черновые решения/Кирилл/Seminar3_hw.md",
@@ -231,8 +233,6 @@
     "Листки/Seminar09_problems.pdf",
     "Листки/Seminar08_problems.pdf",
     "Листки/Seminar07_problems.pdf",
-    "Листки/Seminar06_problems.pdf",
-    "Листки/Seminar05_problems.pdf",
     "Черновые решения/Кирилл/Seminar1_hw.md",
     "Черновые решения/Кирилл/Семинар1_inclass.md",
     "Снимок экрана 2025-10-05 в 19.09.47.png",
