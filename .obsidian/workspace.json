@@ -35,14 +35,12 @@
             "id": "07685e05d472213e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Черновые решения/Кирилл/Seminar3_hw.md",
-                "mode": "source",
-                "source": false
+                "file": "Лекции/Учебник.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Seminar3_hw"
+              "icon": "lucide-file-text",
+              "title": "Учебник"
             }
           },
           {
@@ -221,9 +219,11 @@
   },
   "active": "07685e05d472213e",
   "lastOpenFiles": [
+    "Семинары/Seminar04.pdf",
+    "Черновые решения/Кирилл/Seminar4_hw.md",
+    "Черновые решения/Кирилл/Seminar3_hw.md",
     "Решения/Seminar2_hw.pdf",
     "Черновые решения/Кирилл/Seminar2_hw.md",
-    "Черновые решения/Кирилл/Seminar3_hw.md",
     "Листки/Seminar27_problems.pdf",
     "Листки/Seminar18_problems.pdf",
     "Листки/Seminar11_problems.pdf",
@@ -233,7 +233,6 @@
     "Листки/Seminar07_problems.pdf",
     "Листки/Seminar06_problems.pdf",
     "Листки/Seminar05_problems.pdf",
-    "Листки/Seminar04_problems.pdf",
     "Черновые решения/Кирилл/Seminar1_hw.md",
     "Черновые решения/Кирилл/Семинар1_inclass.md",
     "Снимок экрана 2025-10-05 в 19.09.47.png",
