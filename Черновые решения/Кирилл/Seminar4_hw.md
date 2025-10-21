@@ -90,6 +90,7 @@ $$
 ## 2
 $$
 \begin{align}
-
+AB - BA = C\\
+AABAABAAB = AA(AB -C)A... = AAABA... - AACA...
 \end{align}
 $$
