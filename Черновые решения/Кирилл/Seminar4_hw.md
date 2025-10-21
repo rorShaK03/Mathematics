@@ -90,10 +90,7 @@ $$
 ## 2
 $$
 \begin{align}
-(AB - BA)A = A(AB - BA)\\
-ABA - BA^2 = A^2B - ABA
-\\\\
-(AB - BA)B = B(AB - BA)\\
-AB^2 - BAB = BAB - B^2A
+AC = CA\\
+BC = CB
 \end{align}
 $$
