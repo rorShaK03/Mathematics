@@ -90,7 +90,6 @@ $$
 ## 2
 $$
 \begin{align}
-AC = CA\\
-BC = CB
+
 \end{align}
 $$
