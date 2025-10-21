@@ -88,9 +88,11 @@ $$
 \end{align}
 $$
 ## 2
+Заметим, что в общем случае так как умножением матриц некоммутативно
 $$
-\begin{align}
-AB - BA = C\\
-AABAABAAB = AA(AB -C)A... = AAABA... - AACA...
-\end{align}
+(A + B)^n = A^n + (BA^{n-1} + ABA^{n-2} + A^2BA^{n-3} + ...) + (И,)
+$$
+Пусть
+$$
+[A; B] = AB - BA = C
 $$
