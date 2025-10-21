@@ -89,5 +89,15 @@ $$
 $$
 ## 2
 $$
-A()
+\begin{align}
+A(AB - BA) = (AB - BA)A \\
+A^2B - ABA = ABA - BA^2 \\
+2ABA = A^2B + BA^2
+\\\\
+B(AB - BA) = (AB - BA)B\\
+BAB - B^2A = AB^2 - BAB\\
+2BAB = AB^2 + B^2A
+\\\\
+2(ABA - BAB) = A^2B + BA^2 - AB^2 - B^2A
+\end{align}
 $$
