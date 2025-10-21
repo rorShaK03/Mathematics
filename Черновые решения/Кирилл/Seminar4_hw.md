@@ -90,6 +90,10 @@ $$
 ## 2
 $$
 \begin{align}
-(AB - BA)^2 = (AB)^2 - AB^2A - BA^2B + (BA) 
+(AB - BA)A = A(AB - BA)\\
+ABA - BA^2 = A^2B - ABA
+\\\\
+(AB - BA)B = B(AB - BA)\\
+AB^2 - BAB = BAB - B^2A
 \end{align}
 $$
