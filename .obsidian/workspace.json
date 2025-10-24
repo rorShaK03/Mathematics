@@ -39,10 +39,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Лекции/Учебник.pdf"
+                "file": "Семинары/Seminar04.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Учебник"
+              "title": "Seminar04"
             }
           },
           {
@@ -57,8 +57,7 @@
               "title": "Kostrikin-2009"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,11 +218,12 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "07685e05d472213e",
+  "active": "c3e50d6f8a22410e",
   "lastOpenFiles": [
     "Листки/Seminar04_problems.pdf",
-    "Черновые решения/Кирилл/Seminar4_hw.md",
+    "Семинары/Seminar04.pdf",
     "Лекции/Учебник.pdf",
+    "Черновые решения/Кирилл/Seminar4_hw.md",
     "Задачники/Kostrikin-2009.pdf",
     "Черновые решения/Кирилл/Seminar2_hw.md",
     "Черновые решения/Кирилл/Seminar3_hw.md",
@@ -231,7 +231,6 @@
     "Листки/Seminar02_problems.pdf",
     "Листки/Seminar01_problems.pdf",
     "Черновые решения/Кирилл/Seminar1_hw.md",
-    "Семинары/Seminar04.pdf",
     "Решения/Seminar2_hw.pdf",
     "Листки/Seminar27_problems.pdf",
     "Листки/Seminar18_problems.pdf",
