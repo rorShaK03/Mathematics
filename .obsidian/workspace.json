@@ -57,7 +57,8 @@
               "title": "Kostrikin-2009"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,12 +219,12 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "c3e50d6f8a22410e",
+  "active": "b57c27bed2e8b9ff",
   "lastOpenFiles": [
+    "Черновые решения/Кирилл/Seminar4_hw.md",
     "Листки/Seminar04_problems.pdf",
     "Семинары/Seminar04.pdf",
     "Лекции/Учебник.pdf",
-    "Черновые решения/Кирилл/Seminar4_hw.md",
     "Задачники/Kostrikin-2009.pdf",
     "Черновые решения/Кирилл/Seminar2_hw.md",
     "Черновые решения/Кирилл/Seminar3_hw.md",
