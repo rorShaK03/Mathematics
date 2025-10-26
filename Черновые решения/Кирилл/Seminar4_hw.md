@@ -129,6 +129,8 @@ $$
 
 ## 3
 
+#### а)
+
 Мы знаем, что любая матрица либо обратима, либо является делителем нуля. Пусть $\lambda \ne 0 \in spec(AB)$, тогда $\exists X \ne 0: \,\, (AB - \lambda E)X = 0$.
 
 Значит
@@ -140,6 +142,21 @@ $$
 
 Домножим обе части на $B$ слева
 $$
-BABX = \lambda BX
+\begin{align}
+BABX = \lambda BX \\
+BA(BX) = \lambda (BX)
+\end{align}
 $$
+заменим $BX \ne 0$ на $Y$
+$$
+\begin{align}
+BAY = \lambda Y \\
+(BA - \lambda E)Y = 0
+\end{align}
+$$
+значит $BA - \lambda E$ - необратима, так как является делителем нуля. Значит $\lambda \in spec(BA)$
 
+
+#### б)
+
+Пусть $\lambda = 0$. 
