@@ -133,6 +133,7 @@ $$
 
 Значит
 $$
-ABX = \lambda
+ABX = \lambda X
 $$
+
 
