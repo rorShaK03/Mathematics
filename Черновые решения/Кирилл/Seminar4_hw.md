@@ -180,13 +180,7 @@ $$
 Доказали что $f(spec(A)) \subseteq spec(f(A))$.
 
 ### б)
-$$
-A =
-\begin{pmatrix}
-1&0\\
-0&1
-\end{pmatrix}
-$$
+Пусть $A = E_2$. Пусть $f(x) = x^2 + 1$. Тогда $f(A) = 2E_2$ и $$
 
 
 
