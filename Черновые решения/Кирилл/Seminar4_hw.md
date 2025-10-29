@@ -180,6 +180,14 @@ $$
 Доказали что $f(spec(A)) \subseteq spec(f(A))$.
 
 ### б)
+$$
+A =
+\begin{pmatrix}
+1&0\\
+0&1
+\end{pmatrix}
+$$
+
 
 
 
