@@ -291,13 +291,23 @@ c&0&0&1
 \end{pmatrix}
 \rightarrow
 \begin{pmatrix}
-a^3+ab&a^2&a&0\\
-a^2b+b^2&ab&b&b\\
+a^3&a^2&0&-a\\
+a^2b&ab&0&0\\
 a&1&0&1\\
 0&0&0&1-b-c\\
-ab&b&0&0\\
+0&0&0&-b\\
 b&0&1&1\\
 0&0&0&1-c\\
+c&0&0&1
+\end{pmatrix}
+\rightarrow
+\begin{pmatrix}
+0&0&0&-a - a^2\\
+a^2b&ab&0&0\\
+a&1&0&1\\
+0&0&0&1-b-c\\
+0&0&0&-b\\
+b&0&1&1\\
 0&0&0&1-c\\
 c&0&0&1
 \end{pmatrix}
