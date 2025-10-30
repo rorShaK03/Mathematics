@@ -199,7 +199,7 @@ $$
 
 ## 5
 $$
-A =
+M =
 \begin{pmatrix}
 a&1&0\\
 b&0&1\\
@@ -209,21 +209,32 @@ $$
 Минимальный многочлен степени не больше $3$: $f(x) = Ax^3 + Bx^2 + Cx + D$.
 $$
 \begin{align}
-A^2 = 
+M^2 = 
 \begin{pmatrix}
 a^2 + b&a&1\\
 ab + c&b&0\\
 ac&c&0
 \end{pmatrix}
 \\\\
-A^3 = 
+M^3 = 
 \begin{pmatrix}
 a^3+2ab+c&a^2+b&a\\
 a^2b+b^2+ac&ab+c&b\\
-
+a^2c+bc&ac&c
 \end{pmatrix}
 \end{align}
 $$
+
+Матрица итоговой ОСЛАУ
+$$
+\begin{pmatrix}
+a^3+2ab+c&a^2+b&a&1\\
+a^2+b&a&1&1\\
+a&1&0&1\\
+a^2b+b^2+ac&ab+c&b&1\\
+\end{pmatrix}
+$$
+
 
 
 
