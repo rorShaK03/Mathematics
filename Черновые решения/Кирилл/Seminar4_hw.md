@@ -218,6 +218,8 @@ ac&c&0
 \\\\
 A^3 = 
 \begin{pmatrix}
+a^3+2ab+c&a^2+b&a\\
+a^2b+b^2+ac&ab+c&b\\
 
 \end{pmatrix}
 \end{align}
