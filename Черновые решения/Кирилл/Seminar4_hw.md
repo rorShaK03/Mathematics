@@ -197,7 +197,31 @@ $$
 
 Соответственно число $1$ входит в $spec(f(A))$, но не входит в $f(spec(A))$.
 
+## 5
+$$
+A =
+\begin{pmatrix}
+a&1&0\\
+b&0&1\\
+c&0&0
+\end{pmatrix}
+$$
+Минимальный многочлен степени не больше $3$: $f(x) = Ax^3 + Bx^2 + Cx + D$.
+$$
+\begin{align}
+A^2 = 
+\begin{pmatrix}
+a^2 + b&a&1\\
+ab + c&b&0\\
+ac&c&0
+\end{pmatrix}
+\\\\
+A^3 = 
+\begin{pmatrix}
 
+\end{pmatrix}
+\end{align}
+$$
 
 
 

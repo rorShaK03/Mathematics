@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Лекции/Учебник.pdf"
+                "file": "Листки/Seminar04_problems.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Учебник"
+              "title": "Seminar04_problems"
             }
           },
           {
@@ -233,13 +233,13 @@
   },
   "active": "05c3d2798d35fe1d",
   "lastOpenFiles": [
-    "Лекции/Учебник.pdf",
     "Листки/Seminar04_problems.pdf",
+    "Лекции/Учебник.pdf",
     "Черновые решения/Кирилл/Seminar4_hw.md",
+    "Задачники/Kostrikin-2009.pdf",
     "Листки/Seminar07_problems.pdf",
     "Листки/Seminar06_problems.pdf",
     "Листки/Seminar05_problems.pdf",
-    "Задачники/Kostrikin-2009.pdf",
     "Семинары/Seminar04.pdf",
     "Untitled.base",
     "Листки/Seminar09_problems.pdf",
