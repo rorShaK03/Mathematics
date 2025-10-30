@@ -251,6 +251,20 @@ b&0&1&1\\
 0&0&0&1-c\\
 c&0&0&1
 \end{pmatrix}
+\\\\
+\rightarrow
+\begin{pmatrix}
+a^3+ab&a^2&a&0\\
+a^2b+b^2&ab&b&b\\
+a&1&0&1\\
+a^2b+b^2+ac&ab+c&b&1\\
+ab+c&b&0&1\\
+b&0&1&1\\
+0&0&0&1-c\\
+0&0&0&1-c\\
+c&0&0&1
+\end{pmatrix}
+
 \end{align}
 $$
 
