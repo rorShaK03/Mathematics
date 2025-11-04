@@ -284,25 +284,24 @@ $$
 Aa + B = 0\\
 Ab + C = 0\\
 Ac + D = 0\\
-Ac - Bb = 0
+Ca - Bb = 0
 \end{cases}
 \rightarrow
 \begin{cases}
-Aa + B = 0\\
-Ab + C = 0\\
+B = -Aa\\
+C = -Ab\\
 Ac + D = 0\\
-Ac + Aab = 0
+Aab - Aab = 0
 \end{cases}
 \rightarrow
 \begin{cases}
-Aa + B = 0\\
-Ab + C = 0\\
+B = -Aa\\
+C = -Ab\\
 Ac + D = 0\\
-A(c + ab) = 0
 \end{cases}
 \end{align}
 $$
-Из последнего уравнения ясно что либо $c + ab = 0$ и тогда
+Решение
 $$
 \begin{cases}
 A \in \mathbb{R}\\
@@ -311,7 +310,9 @@ C = -Ab\\
 D = -Ac
 \end{cases}
 $$
-либо $A = B = C = D = 0$.
+Например решение с минимальным старшим коэффициентом
+$$
+$$
 
 
 
