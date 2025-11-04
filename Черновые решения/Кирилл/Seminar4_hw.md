@@ -365,8 +365,8 @@ $$
 $$
 \begin{align}
 XX^t = \lambda E \\
-X^tXX^tX = X^t\lambda E X\\
-(X^tX)^2 = \lambda E (X^tX)
+X - XX^t = X - \lambda E\\
+X(E - X^t) = X - \lambda E
 \end{align}
 $$
 
