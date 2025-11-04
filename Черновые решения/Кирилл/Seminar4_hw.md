@@ -312,7 +312,64 @@ D = -Ac
 $$
 Например решение с единичным старшим коэффициентом $f(x) = x^3 - ax^2 - bx - c$.
 
+Проверим
+$$
+\begin{align}
+\begin{pmatrix}
+a^3+2ab+c&a^2+b&a\\
+a^2b+b^2+ac&ab+c&b\\
+a^2c+bc&ac&c
+\end{pmatrix}
+-
+a
+\begin{pmatrix}
+a^2 + b&a&1\\
+ab + c&b&0\\
+ac&c&0
+\end{pmatrix}
+-
+b
+\begin{pmatrix}
+a&1&0\\
+b&0&1\\
+c&0&0
+\end{pmatrix}
+-
+cE
+=
+\\\\
+\begin{pmatrix}
+a^3+2ab+c&a^2+b&a\\
+a^2b+b^2+ac&ab+c&b\\
+a^2c+bc&ac&c
+\end{pmatrix}
+-
+\begin{pmatrix}
+a^3 + ab&a^2&a\\
+a^2b + ac&ab&0\\
+a^2c&ac&0
+\end{pmatrix}
+-
+\begin{pmatrix}
+ab&b&0\\
+b^2&0&b\\
+bc&0&0
+\end{pmatrix}
+-
+cE
+=
+\\\\
+\begin{pmatrix}
+a^3+2ab+c&a^2+b&a\\
+a^2b+b^2+ac&ab+c&b\\
+a^2c+bc&ac&c
+\end{pmatrix}
 
+-
+cE
+\end{align}
+
+$$
 
 
 
