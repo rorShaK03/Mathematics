@@ -273,9 +273,55 @@ a&1&0&0\\
 b&0&1&0\\
 c&0&0&1\\
 0&-b&a&0\\
-a^2b&ab&0&0\\
 \end{pmatrix}
 \end{align}
+$$
+
+Пусть $a = 0$, тогда
+$$
+\begin{pmatrix}
+a&1&0&0\\
+b&0&1&0\\
+c&0&0&1\\
+0&-b&a&0\\
+\end{pmatrix}
+\rightarrow
+\begin{pmatrix}
+0&1&0&0\\
+b&0&1&0\\
+c&0&0&1\\
+0&-b&0&0\\
+\end{pmatrix}
+\rightarrow
+\begin{pmatrix}
+0&1&0&0\\
+b&0&1&0\\
+c&0&0&1\\
+\end{pmatrix}
+$$
+
+Пусть $a \ne 0$, тогда
+$$
+\begin{pmatrix}
+a&1&0&0\\
+b&0&1&0\\
+c&0&0&1\\
+0&-b&a&0\\
+\end{pmatrix}
+\rightarrow
+\begin{pmatrix}
+1&\frac{1}{a}&0&0\\
+0&-\frac{b}{a}&1&0\\
+0&-\frac{c}{a}&0&1\\
+0&-b&a&0\\
+\end{pmatrix}
+\rightarrow
+\begin{pmatrix}
+1&\frac{1}{a}&0&0\\
+0&-\frac{b}{a}&1&0\\
+0&-\frac{c}{a}&0&1\\
+0&-b&a&0\\
+\end{pmatrix}
 $$
 
 
