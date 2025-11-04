@@ -365,9 +365,8 @@ $$
 $$
 XX^T = \lambda E
 $$
-
 $$
-X - XX^T = X(E - X^T)
+XX^TX = \l
 $$
 
 
