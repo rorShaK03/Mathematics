@@ -277,36 +277,18 @@ c&0&0&1\\
 \end{align}
 $$
 
-Пусть $a \ne 0$
+Рассмотрим теперь в виде системы
 $$
-\begin{pmatrix}
-a&1&0&0\\
-b&0&1&0\\
-c&0&0&1\\
-0&-b&a&0\\
-\end{pmatrix}
+\begin{align}
+\begin{cases}
+Aa + B = 0\\
+Ab + C = 0\\
+Ac + D = 0\\
+Ac - Bb = 0
+\end{cases}
 \rightarrow
-\begin{pmatrix}
-1&\frac{1}{a}&0&0\\
-0&-\frac{b}{a}&1&0\\
-0&-\frac{c}{a}&0&1\\
-0&-b&a&0\\
-\end{pmatrix}
-\rightarrow
-\begin{pmatrix}
-1&\frac{1}{a}&0&0\\
-0&-b&a&0\\
-0&-c&0&a\\
-\end{pmatrix}
-$$
 
-Пусть $b \ne 0$
-$$
-\begin{pmatrix}
-1&0&\frac{1}{b}&0\\
-0&1&-\frac{a}{b}&0\\
-0&0&0&a\\
-\end{pmatrix}
+\end{align}
 $$
 
 
