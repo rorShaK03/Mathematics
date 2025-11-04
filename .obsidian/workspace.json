@@ -59,14 +59,12 @@
             "id": "05c3d2798d35fe1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Черновые решения/Кирилл/Seminar4_hw.md",
-                "mode": "source",
-                "source": false
+                "file": "Листки/Seminar05_problems.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Seminar4_hw"
+              "icon": "lucide-file-text",
+              "title": "Seminar05_problems"
             }
           }
         ],
@@ -233,9 +231,9 @@
   },
   "active": "05c3d2798d35fe1d",
   "lastOpenFiles": [
+    "Черновые решения/Кирилл/Seminar4_hw.md",
     "Задачники/Kostrikin-2009.pdf",
     "Листки/Seminar04_problems.pdf",
-    "Черновые решения/Кирилл/Seminar4_hw.md",
     "Лекции/Учебник.pdf",
     "Черновые решения/Кирилл/Seminar1_hw.md",
     "Черновые решения/Кирилл/Seminar2_hw.md",
