@@ -295,7 +295,41 @@ c&0&0&1\\
 $$
 $f(x) = Ax^3$, где $A \in \mathbb{R}$
 
-Пусть $$
+Пусть $a = 0$ и $b = 0$ и $c \ne 0$
+$$
+\begin{pmatrix}
+a&1&0&0\\
+b&0&1&0\\
+c&0&0&1\\
+0&-b&a&0\\
+\end{pmatrix}
+\rightarrow
+\begin{pmatrix}
+0&1&0&0\\
+0&0&1&0\\
+c&0&0&1\\
+0&0&0&0\\
+\end{pmatrix}
+$$
+$f(x) = -\frac{D}{c}x^3 + D$, где $D \in \mathbb{R}$
+
+Пусть $a = 0$ и $b \ne 0$ и $c = 0$
+$$
+\begin{pmatrix}
+a&1&0&0\\
+b&0&1&0\\
+c&0&0&1\\
+0&-b&a&0\\
+\end{pmatrix}
+\rightarrow
+\begin{pmatrix}
+0&1&0&0\\
+b&0&1&0\\
+0&0&0&1\\
+0&-b&0&0\\
+\end{pmatrix}
+$$
+$f(x)$
 
 Пусть $a \ne 0$, тогда
 $$
