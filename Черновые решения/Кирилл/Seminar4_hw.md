@@ -160,14 +160,22 @@ $$
 #### б)
 
 Переформулируя условие, достаточно доказать, что $AB$ необратима. Где $A \in M_{m \times n}$ и $B \in M_{n \times m}$ и $m > n$
-
 $$
 \begin{align}
-ABD = E \\
-DAB = E
+A = 
+\begin{pmatrix}
+1&0\\
+0&1\\
+0&0
+\end{pmatrix}
+\\\\
+A = 
+\begin{pmatrix}
+1&0\\
+0&1\\
+\end{pmatrix}
 \end{align}
 $$
-
 >[!warn] Ахтунг
 >Я тут сначала хотел написать что-то типа 
 >```
