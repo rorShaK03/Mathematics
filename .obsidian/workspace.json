@@ -69,7 +69,8 @@
               "title": "Учебник"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,11 +231,11 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "c3e50d6f8a22410e",
+  "active": "07685e05d472213e",
   "lastOpenFiles": [
+    "Лекции/Учебник.pdf",
     "Черновые решения/Кирилл/Seminar4_hw.md",
     "Листки/Seminar04_problems.pdf",
-    "Лекции/Учебник.pdf",
     "Задачники/Kostrikin-2009.pdf",
     "Листки/Seminar05_problems.pdf",
     "Черновые решения/Кирилл/Seminar1_hw.md",
