@@ -161,44 +161,13 @@ $$
 
 Переформулируя условие, достаточно доказать, что $AB$ необратима. Где $A \in M_{m \times n}$ и $B \in M_{n \times m}$ и $m > n$
 
-Пусть $BA$ - обратима. Тогда
+Пусть $AB$ обратима. Тогда верно что существует $D \in M_{m \times m}$ $ABD = E$. Используя ассоциативность умножения
 $$
-\begin{align}
-BAX = E \\
-XBA = E
-\\\\
-\end{align}
+A(BD) = E
 $$
 
-$$
-\begin{align}
-ABD = E \\
-DAB = E
-\end{align}
-$$
-$$
-\begin{align}
-A = 
-\begin{pmatrix}
-1&0\\
-0&1\\
-1&1
-\end{pmatrix}
-\\\\
-B = 
-\begin{pmatrix}
-1&0&0\\
-0&1&1\\
-\end{pmatrix}
-\\\\
-AB = 
-\begin{pmatrix}
-1&0&0 \\
-0&1&1 \\
-1&1&1
-\end{pmatrix}
-\end{align}
-$$
+
+
 >[!warn] Ахтунг
 >Я тут сначала хотел написать что-то типа 
 >```
