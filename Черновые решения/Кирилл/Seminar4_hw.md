@@ -160,6 +160,22 @@ $$
 #### б)
 
 Переформулируя условие, достаточно доказать, что $AB$ необратима. Где $A \in M_{m \times n}$ и $B \in M_{n \times m}$ и $m > n$
+
+Пусть $BA$ - обратима. Тогда
+$$
+\begin{align}
+BAX = E \\
+XBA = E
+\\\\
+\end{align}
+$$
+
+$$
+\begin{align}
+ABD = E \\
+DAB = E
+\end{align}
+$$
 $$
 \begin{align}
 A = 
@@ -171,7 +187,7 @@ A =
 \\\\
 A = 
 \begin{pmatrix}
-1&0\\
+1&0&0\\
 0&1\\
 \end{pmatrix}
 \end{align}
