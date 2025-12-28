@@ -32,9 +32,21 @@
               "icon": "lucide-file-text",
               "title": "Учебник"
             }
+          },
+          {
+            "id": "3436c525d44b3931",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +207,7 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "f0413e4d6e5f2f76",
+  "active": "3436c525d44b3931",
   "lastOpenFiles": [
     "Семинары/Seminar05.pdf",
     "Черновые решения/Кирилл/Seminar5_hw.md",
