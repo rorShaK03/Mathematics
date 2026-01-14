@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Лекции/Учебник.pdf"
+                "file": "Листки/Seminar25_problems.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Учебник"
+              "title": "Seminar25_problems"
             }
           },
           {
@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,27 +207,28 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "3436c525d44b3931",
+  "active": "f0413e4d6e5f2f76",
   "lastOpenFiles": [
-    "Лекции/Учебник.pdf",
+    "Листки/Seminar27_seminar.pdf",
+    "Листки/Seminar34_problems.pdf",
+    "Листки/Seminar17_problems.pdf",
+    "Листки/Seminar10_problems.pdf",
+    "Листки/Seminar09_problems.pdf",
+    "Листки/Seminar08_problems.pdf",
+    "Листки/Seminar07_problems.pdf",
+    "Листки/Seminar06_problems.pdf",
     "Листки/Seminar05_problems.pdf",
+    "Лекции/Учебник.pdf",
+    "Задачники/Kostrikin-2009.pdf",
     "Черновые решения/Кирилл/Seminar5_hw.md",
     "Снимок экрана 2026-01-15 в 03.18.16.png",
-    "Задачники/Kostrikin-2009.pdf",
     "Снимок экрана 2026-01-15 в 03.17.40.png",
     "Снимок экрана 2026-01-15 в 03.12.56.png",
     "Снимок экрана 2026-01-15 в 03.08.53.png",
-    "Семинары/Seminar05.pdf",
     "Черновые решения/Кирилл/Seminar4_hw.md",
-    "Листки/Seminar04_problems.pdf",
-    "Листки/Seminar03_problems.pdf",
-    "Листки/Seminar02_problems.pdf",
     "Черновые решения/Кирилл/Seminar2_hw.md",
     "Черновые решения/Кирилл/Seminar3_hw.md",
     "Черновые решения/Кирилл/Seminar1_hw.md",
-    "Семинары/Seminar04.pdf",
-    "Листки/Seminar07_problems.pdf",
-    "Листки/Seminar06_problems.pdf",
     "Черновые решения/Кирилл/Семинар1_inclass.md",
     "Снимок экрана 2025-10-05 в 19.09.47.png",
     "Полезные формулы.md",
