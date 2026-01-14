@@ -11,14 +11,12 @@
             "id": "1f5fab8f718d4329",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Черновые решения/Кирилл/Seminar5_hw.md",
-                "mode": "source",
-                "source": false
+                "file": "Задачники/Kostrikin-2009.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Seminar5_hw"
+              "icon": "lucide-file-text",
+              "title": "Kostrikin-2009"
             }
           },
           {
@@ -27,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Лекции/Учебник.pdf"
+                "file": "Листки/Seminar05_problems.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Учебник"
+              "title": "Seminar05_problems"
             }
           },
           {
@@ -48,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,9 +207,14 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "f0413e4d6e5f2f76",
+  "active": "3436c525d44b3931",
   "lastOpenFiles": [
+    "Листки/Seminar05_problems.pdf",
     "Черновые решения/Кирилл/Seminar5_hw.md",
+    "Снимок экрана 2026-01-15 в 03.08.53.png",
+    "Задачники/Kostrikin-2009.pdf",
+    "Семинары/Seminar05.pdf",
+    "Лекции/Учебник.pdf",
     "Черновые решения/Кирилл/Seminar4_hw.md",
     "Листки/Seminar04_problems.pdf",
     "Листки/Seminar03_problems.pdf",
@@ -219,11 +222,7 @@
     "Черновые решения/Кирилл/Seminar2_hw.md",
     "Черновые решения/Кирилл/Seminar3_hw.md",
     "Черновые решения/Кирилл/Seminar1_hw.md",
-    "Лекции/Учебник.pdf",
-    "Листки/Seminar05_problems.pdf",
     "Семинары/Seminar04.pdf",
-    "Семинары/Seminar05.pdf",
-    "Задачники/Kostrikin-2009.pdf",
     "Листки/Seminar07_problems.pdf",
     "Листки/Seminar06_problems.pdf",
     "Черновые решения/Кирилл/Семинар1_inclass.md",
