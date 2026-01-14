@@ -37,12 +37,12 @@
             "id": "3436c525d44b3931",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Лекции/Учебник.pdf"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file-text",
+              "title": "Учебник"
             }
           }
         ],
@@ -209,22 +209,21 @@
   },
   "active": "3436c525d44b3931",
   "lastOpenFiles": [
-    "Семинары/Seminar05.pdf",
-    "Черновые решения/Кирилл/Seminar5_hw.md",
     "Листки/Seminar05_problems.pdf",
     "Листки/Seminar04_problems.pdf",
-    "Черновые решения/Кирилл/Seminar3_hw.md",
-    "Черновые решения/Кирилл/Seminar4_hw.md",
-    "Задачники/Kostrikin-2009.pdf",
+    "Семинары/Seminar04.pdf",
     "Лекции/Учебник.pdf",
+    "Черновые решения/Кирилл/Seminar4_hw.md",
+    "Черновые решения/Кирилл/Seminar5_hw.md",
+    "Семинары/Seminar05.pdf",
+    "Черновые решения/Кирилл/Seminar3_hw.md",
+    "Задачники/Kostrikin-2009.pdf",
     "Черновые решения/Кирилл/Seminar1_hw.md",
     "Черновые решения/Кирилл/Seminar2_hw.md",
     "Листки/Seminar07_problems.pdf",
     "Листки/Seminar06_problems.pdf",
-    "Семинары/Seminar04.pdf",
     "Untitled.base",
     "Листки/Seminar09_problems.pdf",
-    "Листки/Seminar03_problems.pdf",
     "Черновые решения/Кирилл/Семинар1_inclass.md",
     "Снимок экрана 2025-10-05 в 19.09.47.png",
     "Полезные формулы.md",
